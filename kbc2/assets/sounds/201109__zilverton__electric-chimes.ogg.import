@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/201109__zilverton__electric-chimes.ogg-fb29aec4f264b608b6e6b8962b266335.oggstr"
+
+[deps]
+
+source_file="res://assets/sounds/201109__zilverton__electric-chimes.ogg"
+dest_files=[ "res://.import/201109__zilverton__electric-chimes.ogg-fb29aec4f264b608b6e6b8962b266335.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

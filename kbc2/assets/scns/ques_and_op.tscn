@@ -1,0 +1,335 @@
+[gd_scene load_steps=28 format=2]
+
+[ext_resource path="res://assets/scripts/ques_and_op.gd" type="Script" id=1]
+[ext_resource path="res://assets/sprites/question_text_background.png" type="Texture" id=2]
+[ext_resource path="res://assets/fonts/disco-bling.ttf" type="DynamicFontData" id=3]
+[ext_resource path="res://assets/scns/spark.tscn" type="PackedScene" id=4]
+[ext_resource path="res://assets/sprites/op_button_text_background_left.png" type="Texture" id=5]
+[ext_resource path="res://assets/sprites/op_button_text_background_or_left.png" type="Texture" id=6]
+[ext_resource path="res://assets/sprites/op_button_text_background.png" type="Texture" id=7]
+[ext_resource path="res://assets/sprites/op_button_text_background_or.png" type="Texture" id=8]
+[ext_resource path="res://assets/fonts/Roboto-MediumItalic.ttf" type="DynamicFontData" id=9]
+[ext_resource path="res://assets/sprites/timer_normal.png" type="Texture" id=10]
+[ext_resource path="res://assets/fonts/Roboto-Bold.ttf" type="DynamicFontData" id=11]
+[ext_resource path="res://assets/scripts/ques_loader.gd" type="Script" id=12]
+[ext_resource path="res://assets/fonts/Roboto-Regular.ttf" type="DynamicFontData" id=13]
+[ext_resource path="res://assets/sprites/proceed_background.png" type="Texture" id=14]
+[ext_resource path="res://assets/sprites/proceed_buttons.png" type="Texture" id=15]
+[ext_resource path="res://assets/sounds/correct_answer1.wav" type="AudioStream" id=16]
+[ext_resource path="res://assets/sounds/wrong_answer.wav" type="AudioStream" id=17]
+
+[sub_resource type="DynamicFont" id=1]
+size = 32
+outline_size = 1
+outline_color = Color( 0.466667, 0.980392, 0, 1 )
+font_data = ExtResource( 3 )
+
+[sub_resource type="DynamicFont" id=2]
+size = 26
+font_data = ExtResource( 9 )
+
+[sub_resource type="DynamicFont" id=3]
+size = 36
+font_data = ExtResource( 11 )
+
+[sub_resource type="DynamicFont" id=4]
+size = 24
+font_data = ExtResource( 13 )
+
+[sub_resource type="DynamicFont" id=5]
+size = 22
+use_mipmaps = true
+font_data = ExtResource( 13 )
+
+[sub_resource type="DynamicFont" id=6]
+size = 32
+extra_spacing_space = 2
+font_data = ExtResource( 9 )
+
+[sub_resource type="DynamicFont" id=7]
+size = 28
+use_mipmaps = true
+font_data = ExtResource( 9 )
+
+[sub_resource type="DynamicFont" id=8]
+size = 26
+font_data = ExtResource( 9 )
+
+[sub_resource type="DynamicFont" id=9]
+size = 32
+use_mipmaps = true
+font_data = ExtResource( 9 )
+
+[sub_resource type="DynamicFont" id=10]
+size = 36
+use_mipmaps = true
+extra_spacing_char = 2
+font_data = ExtResource( 11 )
+
+[node name="ques_and_op" type="Node2D"]
+position = Vector2( 0, 300 )
+z_index = 1
+script = ExtResource( 1 )
+
+[node name="question_display" type="Sprite" parent="."]
+position = Vector2( 0, -29.61 )
+scale = Vector2( 1, 1.30844 )
+texture = ExtResource( 2 )
+centered = false
+
+[node name="ques_amt" type="Label" parent="."]
+editor/display_folded = true
+margin_left = 1040.0
+margin_top = -115.0
+margin_right = 1429.0
+margin_bottom = -59.0
+custom_fonts/font = SubResource( 1 )
+text = "	RS.10000000"
+autowrap = true
+
+[node name="spark" parent="ques_amt" instance=ExtResource( 4 )]
+visible = false
+frame = 1
+
+[node name="spark2" parent="ques_amt" instance=ExtResource( 4 )]
+visible = false
+frame = 1
+
+[node name="op1" type="TextureButton" parent="."]
+margin_top = 113.0
+margin_right = 524.0
+margin_bottom = 185.0
+texture_normal = ExtResource( 5 )
+texture_pressed = ExtResource( 6 )
+
+[node name="op2" type="TextureButton" parent="."]
+margin_left = 502.725
+margin_top = 113.0
+margin_right = 1026.72
+margin_bottom = 185.0
+texture_normal = ExtResource( 7 )
+texture_pressed = ExtResource( 8 )
+
+[node name="op3" type="TextureButton" parent="."]
+margin_top = 194.0
+margin_right = 524.0
+margin_bottom = 266.0
+texture_normal = ExtResource( 5 )
+texture_pressed = ExtResource( 6 )
+
+[node name="op4" type="TextureButton" parent="."]
+margin_left = 504.395
+margin_top = 194.0
+margin_right = 1028.4
+margin_bottom = 266.0
+texture_normal = ExtResource( 7 )
+texture_pressed = ExtResource( 8 )
+
+[node name="a_not" type="Label" parent="."]
+margin_left = 85.0
+margin_top = 130.74
+margin_right = 115.0
+margin_bottom = 166.74
+custom_fonts/font = SubResource( 2 )
+text = "A )"
+
+[node name="b_not" type="Label" parent="."]
+margin_left = 545.0
+margin_top = 131.0
+margin_right = 575.0
+margin_bottom = 167.0
+custom_fonts/font = SubResource( 2 )
+text = "B )"
+
+[node name="c_not" type="Label" parent="."]
+margin_left = 85.0
+margin_top = 213.388
+margin_right = 114.0
+margin_bottom = 249.388
+custom_fonts/font = SubResource( 2 )
+text = "C )"
+
+[node name="d_not" type="Label" parent="."]
+margin_left = 547.0
+margin_top = 211.44
+margin_right = 577.0
+margin_bottom = 247.44
+custom_fonts/font = SubResource( 2 )
+text = "D )"
+
+[node name="timer_bg" type="Sprite" parent="."]
+position = Vector2( 513.811, 190.401 )
+rotation = 1.5708
+scale = Vector2( 0.68815, 0.83555 )
+texture = ExtResource( 10 )
+
+[node name="timer" type="Timer" parent="."]
+
+[node name="timer_text" type="Label" parent="."]
+margin_left = 494.0
+margin_top = 166.758
+margin_right = 536.0
+margin_bottom = 265.758
+custom_fonts/font = SubResource( 3 )
+text = "35
+"
+align = 1
+
+[node name="text_label" type="Node2D" parent="."]
+script = ExtResource( 12 )
+
+[node name="question" type="Label" parent="text_label"]
+margin_left = 85.0
+margin_top = -26.0
+margin_right = 933.0
+margin_bottom = 89.0
+rect_pivot_offset = Vector2( 688.771, 44.5359 )
+custom_fonts/font = SubResource( 4 )
+align = 1
+valign = 1
+autowrap = true
+
+[node name="op1" type="Label" parent="text_label"]
+margin_left = 118.0
+margin_top = 122.0
+margin_right = 472.0
+margin_bottom = 174.0
+custom_fonts/font = SubResource( 5 )
+align = 1
+valign = 1
+
+[node name="op2" type="Label" parent="text_label"]
+margin_left = 574.0
+margin_top = 124.0
+margin_right = 931.0
+margin_bottom = 179.0
+custom_fonts/font = SubResource( 5 )
+align = 1
+valign = 1
+
+[node name="op3" type="Label" parent="text_label"]
+margin_left = 115.0
+margin_top = 203.0
+margin_right = 472.0
+margin_bottom = 255.0
+custom_fonts/font = SubResource( 5 )
+align = 1
+valign = 1
+
+[node name="op4" type="Label" parent="text_label"]
+margin_left = 583.0
+margin_top = 202.0
+margin_right = 935.0
+margin_bottom = 257.0
+custom_fonts/font = SubResource( 5 )
+align = 1
+valign = 1
+
+[node name="draw_timer" type="Timer" parent="text_label"]
+wait_time = 0.03
+
+[node name="proceed" type="Node2D" parent="."]
+position = Vector2( 0, 100 )
+
+[node name="bg" type="Sprite" parent="proceed"]
+position = Vector2( 511.015, 442.413 )
+scale = Vector2( 1.65039, 1.42466 )
+texture = ExtResource( 14 )
+
+[node name="ask" type="Label" parent="proceed"]
+margin_left = 342.441
+margin_top = 334.239
+margin_right = 697.441
+margin_bottom = 377.239
+custom_fonts/font = SubResource( 6 )
+text = "Do you want to proceed ?"
+
+[node name="yes" type="TextureButton" parent="proceed"]
+margin_left = 287.303
+margin_top = 408.404
+margin_right = 591.303
+margin_bottom = 508.404
+rect_scale = Vector2( 1.5, 0.6 )
+texture_normal = ExtResource( 15 )
+
+[node name="no" type="TextureButton" parent="proceed"]
+margin_left = 289.127
+margin_top = 494.182
+margin_right = 593.127
+margin_bottom = 594.182
+rect_scale = Vector2( 1.5, 0.6 )
+texture_normal = ExtResource( 15 )
+
+[node name="yes_label" type="Label" parent="proceed"]
+margin_left = 289.0
+margin_top = 410.0
+margin_right = 741.0
+margin_bottom = 466.0
+custom_fonts/font = SubResource( 7 )
+text = "Yes, I want to lock the answer"
+align = 1
+valign = 1
+
+[node name="no_label" type="Label" parent="proceed"]
+margin_left = 294.0
+margin_top = 495.0
+margin_right = 745.0
+margin_bottom = 557.0
+custom_fonts/font = SubResource( 8 )
+text = "No, take me back"
+align = 1
+valign = 1
+
+[node name="proceed_tween" type="Tween" parent="."]
+
+[node name="prompt_c_w" type="Node2D" parent="."]
+position = Vector2( 523, 782 )
+
+[node name="bg" type="Sprite" parent="prompt_c_w"]
+position = Vector2( -4.78336, 2.39174 )
+scale = Vector2( 1.60443, 0.812307 )
+texture = ExtResource( 14 )
+
+[node name="msg" type="Label" parent="prompt_c_w"]
+margin_left = -259.0
+margin_top = -67.0
+margin_right = 254.0
+margin_bottom = 77.0
+custom_fonts/font = SubResource( 9 )
+text = "Congrats ! Correct Answer !"
+align = 1
+valign = 1
+
+[node name="proceed" type="TextureButton" parent="prompt_c_w"]
+margin_left = -88.4007
+margin_top = 109.0
+margin_right = 215.599
+margin_bottom = 209.0
+rect_scale = Vector2( 0.6, 0.6 )
+texture_normal = ExtResource( 15 )
+
+[node name="proceed_label" type="Label" parent="prompt_c_w"]
+margin_left = -83.0
+margin_top = 111.0
+margin_right = 92.0
+margin_bottom = 166.0
+custom_fonts/font = SubResource( 10 )
+text = "OK"
+align = 1
+valign = 1
+
+[node name="correct_ans" type="AudioStreamPlayer" parent="."]
+stream = ExtResource( 16 )
+
+[node name="wrong_ans" type="AudioStreamPlayer" parent="."]
+stream = ExtResource( 17 )
+
+[connection signal="pressed" from="op1" to="." method="_on_op1_pressed"]
+[connection signal="pressed" from="op2" to="." method="_on_op2_pressed"]
+[connection signal="pressed" from="op3" to="." method="_on_op3_pressed"]
+[connection signal="pressed" from="op4" to="." method="_on_op4_pressed"]
+[connection signal="timeout" from="timer" to="." method="_on_timer_timeout"]
+[connection signal="timeout" from="text_label/draw_timer" to="text_label" method="_on_draw_timer_timeout"]
+[connection signal="pressed" from="proceed/yes" to="." method="_on_yes_pressed"]
+[connection signal="pressed" from="proceed/no" to="." method="_on_no_pressed"]
+[connection signal="pressed" from="prompt_c_w/proceed" to="." method="_on_proceed_pressed"]

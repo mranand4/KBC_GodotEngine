@@ -1,0 +1,186 @@
+[gd_scene load_steps=13 format=2]
+
+[ext_resource path="res://assets/scripts/lifelines.gd" type="Script" id=1]
+[ext_resource path="res://assets/sprites/lifelines_aud_normal.png" type="Texture" id=2]
+[ext_resource path="res://assets/sprites/lifelines_expert_normal.png" type="Texture" id=3]
+[ext_resource path="res://assets/sprites/lifelines_x2_normal.png" type="Texture" id=4]
+[ext_resource path="res://assets/sprites/proceed_background.png" type="Texture" id=5]
+[ext_resource path="res://assets/sprites/aud_pole_bar.png" type="Texture" id=6]
+[ext_resource path="res://assets/fonts/Roboto-Bold.ttf" type="DynamicFontData" id=7]
+[ext_resource path="res://assets/sprites/proceed_buttons.png" type="Texture" id=8]
+
+[sub_resource type="DynamicFont" id=1]
+
+size = 32
+font_data = ExtResource( 7 )
+
+[sub_resource type="DynamicFont" id=2]
+
+size = 64
+font_data = ExtResource( 7 )
+
+[sub_resource type="DynamicFont" id=3]
+
+size = 24
+extra_spacing_char = 1
+font_data = ExtResource( 7 )
+
+[sub_resource type="DynamicFont" id=4]
+
+size = 64
+font_data = ExtResource( 7 )
+
+[node name="lifelines" type="Node2D"]
+script = ExtResource( 1 )
+
+[node name="aud_pole" type="TextureButton" parent="."]
+margin_left = -100.0
+margin_bottom = 64.0
+texture_normal = ExtResource( 2 )
+
+[node name="exp_adv" type="TextureButton" parent="."]
+margin_left = -100.0
+margin_bottom = 64.0
+texture_normal = ExtResource( 3 )
+
+[node name="x2" type="TextureButton" parent="."]
+margin_left = -100.0
+margin_bottom = 64.0
+texture_normal = ExtResource( 4 )
+
+[node name="tween_aud" type="Tween" parent="."]
+
+[node name="tween_exp" type="Tween" parent="."]
+
+[node name="tween_x2" type="Tween" parent="."]
+
+[node name="aud_pole_main" type="Node2D" parent="."]
+editor/display_folded = true
+position = Vector2( 484.844, -400 )
+z_index = 2
+
+[node name="bg" type="Sprite" parent="aud_pole_main"]
+scale = Vector2( 1.37297, 1.5 )
+texture = ExtResource( 5 )
+
+[node name="op_a" type="Sprite" parent="aud_pole_main"]
+position = Vector2( -113.596, 96.4768 )
+rotation = 3.14159
+scale = Vector2( 1, 100 )
+texture = ExtResource( 6 )
+centered = false
+
+[node name="op_b" type="Sprite" parent="aud_pole_main"]
+position = Vector2( -27.4439, 94.4262 )
+rotation = 3.14159
+scale = Vector2( 1, 100 )
+texture = ExtResource( 6 )
+centered = false
+
+[node name="op_c" type="Sprite" parent="aud_pole_main"]
+position = Vector2( 50.5054, 94.4262 )
+rotation = 3.14159
+scale = Vector2( 1, 100 )
+texture = ExtResource( 6 )
+centered = false
+
+[node name="op_d" type="Sprite" parent="aud_pole_main"]
+position = Vector2( 130.505, 92.3757 )
+rotation = 3.14159
+scale = Vector2( 1, 100 )
+texture = ExtResource( 6 )
+centered = false
+
+[node name="a" type="Label" parent="aud_pole_main"]
+margin_left = -140.647
+margin_top = 93.1786
+margin_right = -120.647
+margin_bottom = 136.179
+custom_fonts/font = SubResource( 1 )
+text = "A"
+
+[node name="b" type="Label" parent="aud_pole_main"]
+margin_left = -58.0169
+margin_top = 93.1786
+margin_right = -37.0169
+margin_bottom = 136.179
+custom_fonts/font = SubResource( 1 )
+text = "B"
+
+[node name="c" type="Label" parent="aud_pole_main"]
+margin_left = 22.8551
+margin_top = 94.9367
+margin_right = 42.8551
+margin_bottom = 137.937
+custom_fonts/font = SubResource( 1 )
+text = "C"
+
+[node name="d" type="Label" parent="aud_pole_main"]
+margin_left = 101.969
+margin_top = 93.1786
+margin_right = 122.969
+margin_bottom = 136.179
+custom_fonts/font = SubResource( 1 )
+text = "D"
+
+[node name="aud_bacl" type="TextureButton" parent="aud_pole_main"]
+margin_left = -71.6858
+margin_top = 166.0
+margin_right = 232.314
+margin_bottom = 266.0
+rect_scale = Vector2( 0.526812, 0.543373 )
+texture_normal = ExtResource( 8 )
+
+[node name="bt" type="Label" parent="aud_pole_main/aud_bacl"]
+margin_right = 308.0
+margin_bottom = 101.0
+custom_fonts/font = SubResource( 2 )
+text = "BACK"
+align = 1
+valign = 1
+
+[node name="tween_aud_main" type="Tween" parent="."]
+
+[node name="exp_adv_main" type="Node2D" parent="."]
+editor/display_folded = true
+position = Vector2( 502.589, -453.888 )
+z_index = 2
+
+[node name="bg" type="Sprite" parent="exp_adv_main"]
+texture = ExtResource( 5 )
+
+[node name="exp_adv_txt" type="Label" parent="exp_adv_main"]
+margin_left = -160.0
+margin_top = -88.0
+margin_right = 162.0
+margin_bottom = 94.0
+custom_fonts/font = SubResource( 3 )
+text = "The expert thinks that the answer should be . . ."
+align = 1
+valign = 1
+autowrap = true
+
+[node name="exp_adv_main_back" type="TextureButton" parent="exp_adv_main"]
+margin_left = -81.8168
+margin_top = 122.725
+margin_right = 222.183
+margin_bottom = 222.725
+rect_scale = Vector2( 0.527, 0.543 )
+texture_normal = ExtResource( 8 )
+
+[node name="Label" type="Label" parent="exp_adv_main/exp_adv_main_back"]
+margin_right = 302.0
+margin_bottom = 100.0
+custom_fonts/font = SubResource( 4 )
+text = "BACK"
+align = 1
+valign = 1
+autowrap = true
+
+[connection signal="pressed" from="aud_pole" to="." method="_on_aud_pole_pressed"]
+[connection signal="pressed" from="exp_adv" to="." method="_on_exp_adv_pressed"]
+[connection signal="pressed" from="x2" to="." method="_on_x2_pressed"]
+[connection signal="tween_completed" from="tween_aud" to="." method="_on_tween_aud_tween_completed"]
+[connection signal="tween_completed" from="tween_exp" to="." method="_on_tween_exp_tween_completed"]
+[connection signal="pressed" from="aud_pole_main/aud_bacl" to="." method="_on_aud_bacl_pressed"]
+[connection signal="pressed" from="exp_adv_main/exp_adv_main_back" to="." method="_on_exp_adv_main_back_pressed"]

@@ -1,0 +1,236 @@
+[gd_scene load_steps=22 format=2]
+
+[ext_resource path="res://assets/scripts/cheque.gd" type="Script" id=1]
+[ext_resource path="res://assets/fonts/Roboto-MediumItalic.ttf" type="DynamicFontData" id=2]
+[ext_resource path="res://assets/fonts/Roboto-Regular.ttf" type="DynamicFontData" id=3]
+[ext_resource path="res://assets/fonts/bedtime stories.ttf" type="DynamicFontData" id=4]
+[ext_resource path="res://assets/fonts/Otto.ttf" type="DynamicFontData" id=5]
+[ext_resource path="res://assets/sounds/correct_answer.wav" type="AudioStream" id=6]
+[ext_resource path="res://assets/sprites/icon.png" type="Texture" id=7]
+[ext_resource path="res://assets/fonts/Roboto-Bold.ttf" type="DynamicFontData" id=8]
+[ext_resource path="res://assets/sprites/line_sq.png" type="Texture" id=9]
+[ext_resource path="res://assets/sprites/ok_btn.png" type="Texture" id=10]
+[ext_resource path="res://assets/sprites/ok_btn_pressed.png" type="Texture" id=11]
+[ext_resource path="res://assets/sprites/share_chq.png" type="Texture" id=12]
+
+[sub_resource type="DynamicFont" id=1]
+size = 48
+font_data = ExtResource( 2 )
+
+[sub_resource type="DynamicFont" id=2]
+size = 32
+use_mipmaps = true
+font_data = ExtResource( 2 )
+
+[sub_resource type="DynamicFont" id=3]
+size = 24
+use_mipmaps = true
+font_data = ExtResource( 3 )
+
+[sub_resource type="DynamicFont" id=4]
+size = 46
+font_data = ExtResource( 4 )
+
+[sub_resource type="DynamicFont" id=5]
+size = 64
+use_mipmaps = true
+use_filter = true
+extra_spacing_char = 1
+font_data = ExtResource( 5 )
+
+[sub_resource type="DynamicFont" id=6]
+size = 64
+font_data = ExtResource( 5 )
+
+[sub_resource type="DynamicFont" id=7]
+size = 28
+font_data = ExtResource( 8 )
+
+[sub_resource type="DynamicFont" id=8]
+size = 84
+extra_spacing_char = 5
+font_data = ExtResource( 5 )
+
+[sub_resource type="DynamicFont" id=9]
+size = 18
+use_mipmaps = true
+font_data = ExtResource( 2 )
+
+[node name="cheque" type="Node2D"]
+position = Vector2( -3.173, 10 )
+script = ExtResource( 1 )
+
+[node name="pay" type="Label" parent="."]
+margin_left = 32.9522
+margin_top = 277.909
+margin_right = 142.952
+margin_bottom = 342.909
+custom_fonts/font = SubResource( 1 )
+text = "PAY :"
+align = 1
+valign = 1
+
+[node name="rupees" type="Label" parent="."]
+margin_left = 28.4185
+margin_top = 369.029
+margin_right = 222.418
+margin_bottom = 434.029
+custom_fonts/font = SubResource( 1 )
+text = "RUPEES :"
+align = 1
+valign = 1
+
+[node name="sign" type="Label" parent="."]
+margin_left = 469.725
+margin_top = 459.188
+margin_right = 553.725
+margin_bottom = 502.188
+custom_fonts/font = SubResource( 2 )
+text = "SIGN :"
+
+[node name="acc_no" type="Label" parent="."]
+margin_left = 28.4185
+margin_top = 457.828
+margin_right = 161.418
+margin_bottom = 500.828
+custom_fonts/font = SubResource( 2 )
+text = "ACC NO. :"
+
+[node name="date" type="Label" parent="."]
+margin_left = 693.0
+margin_top = 156.0
+margin_right = 790.0
+margin_bottom = 199.0
+custom_fonts/font = SubResource( 2 )
+text = "DATE :"
+
+[node name="fake_acc_lno" type="RichTextLabel" parent="."]
+margin_left = 173.514
+margin_top = 465.414
+margin_right = 448.514
+margin_bottom = 502.414
+custom_fonts/normal_font = SubResource( 3 )
+bbcode_enabled = true
+bbcode_text = "[u]XXXX XXXX 1234 5678[/u]"
+text = "XXXX XXXX 1234 5678"
+scroll_active = false
+
+[node name="sign_fake" type="RichTextLabel" parent="."]
+margin_left = 570.766
+margin_top = 451.467
+margin_right = 975.763
+margin_bottom = 521.467
+custom_fonts/normal_font = SubResource( 4 )
+bbcode_enabled = true
+bbcode_text = "[u]shivansh anand[/u]"
+text = "shivansh anand"
+scroll_active = false
+
+[node name="rec_name" type="RichTextLabel" parent="."]
+margin_left = 149.0
+margin_top = 289.0
+margin_right = 1002.0
+margin_bottom = 356.0
+custom_fonts/normal_font = SubResource( 5 )
+bbcode_enabled = true
+bbcode_text = "[u]Shivansh Anand Kumar Srivastava Is[/u]"
+text = "Shivansh Anand Kumar Srivastava Is"
+scroll_active = false
+
+[node name="date2" type="RichTextLabel" parent="."]
+margin_left = 796.0
+margin_top = 147.0
+margin_right = 1007.0
+margin_bottom = 214.0
+custom_fonts/normal_font = SubResource( 5 )
+bbcode_enabled = true
+bbcode_text = "[u]0/0/0[/u]"
+text = "0/0/0"
+scroll_active = false
+
+[node name="money" type="RichTextLabel" parent="."]
+margin_left = 228.0
+margin_top = 379.0
+margin_right = 1004.0
+margin_bottom = 460.0
+custom_fonts/normal_font = SubResource( 6 )
+bbcode_enabled = true
+bbcode_text = "[u]Tweleve Lakh Fifty Thousand Only (dummy)[/u]"
+text = "Tweleve Lakh Fifty Thousand Only (dummy)"
+scroll_active = false
+
+[node name="aud" type="AudioStreamPlayer" parent="."]
+stream = ExtResource( 6 )
+autoplay = true
+
+[node name="logo" type="Sprite" parent="."]
+position = Vector2( 123.76, 172.154 )
+scale = Vector2( 0.6, 0.6 )
+texture = ExtResource( 7 )
+
+[node name="bank" type="Label" parent="."]
+margin_left = 228.481
+margin_top = 150.734
+margin_right = 608.481
+margin_bottom = 202.734
+custom_fonts/font = SubResource( 7 )
+text = "STATE BANK OF KNOWLEDGE"
+align = 1
+valign = 1
+
+[node name="head" type="Label" parent="."]
+margin_left = 442.681
+margin_top = 1.58667
+margin_right = 590.681
+margin_bottom = 85.5867
+custom_fonts/font = SubResource( 8 )
+text = "Cheque"
+
+[node name="share_mot" type="Label" parent="."]
+margin_left = 228.44
+margin_top = 200.0
+margin_right = 606.44
+margin_bottom = 247.0
+custom_fonts/font = SubResource( 9 )
+text = "Please share this app with your friends !"
+autowrap = true
+
+[node name="border" type="Sprite" parent="."]
+position = Vector2( 7.14006, 274.494 )
+scale = Vector2( 9.7267, 302.468 )
+texture = ExtResource( 9 )
+
+[node name="border2" type="Sprite" parent="."]
+position = Vector2( 519.635, -34.1134 )
+scale = Vector2( 515.875, 38.2868 )
+texture = ExtResource( 9 )
+
+[node name="border3" type="Sprite" parent="."]
+position = Vector2( 1057.52, 262.594 )
+scale = Vector2( 44.6335, 301.674 )
+texture = ExtResource( 9 )
+
+[node name="border4" type="Sprite" parent="."]
+position = Vector2( 540.262, 585.482 )
+scale = Vector2( 539.675, 43.8402 )
+texture = ExtResource( 9 )
+
+[node name="ok" type="TextureButton" parent="."]
+margin_left = 925.66
+margin_top = 218.5
+margin_right = 1053.66
+margin_bottom = 346.5
+rect_scale = Vector2( 0.6, 0.6 )
+texture_normal = ExtResource( 10 )
+texture_pressed = ExtResource( 11 )
+
+[node name="share" type="TextureButton" parent="."]
+margin_left = 847.5
+margin_top = 310.5
+margin_right = 1103.5
+margin_bottom = 438.5
+rect_scale = Vector2( 0.6, 0.6 )
+texture_normal = ExtResource( 12 )
+
+[connection signal="pressed" from="ok" to="." method="_on_ok_pressed"]
+[connection signal="pressed" from="share" to="." method="_on_share_pressed"]

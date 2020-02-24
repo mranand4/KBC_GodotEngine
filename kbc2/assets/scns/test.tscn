@@ -1,0 +1,22 @@
+[gd_scene load_steps=2 format=2]
+
+[sub_resource type="GDScript" id=1]
+
+script/source = "extends Node2D
+
+	
+func _ready():
+	$HTTPRequest.request(\"http://igmag.000webhostapp.com/x.txt\")
+	
+
+
+func _on_HTTPRequest_request_completed(result, response_code, headers, body):
+	var json = JSON.parse(body.get_string_from_utf8())
+	get_node(\"../"
+
+[node name="Node2D" type="Node2D"]
+script = SubResource( 1 )
+
+[node name="HTTPRequest" type="HTTPRequest" parent="."]
+
+[connection signal="request_completed" from="HTTPRequest" to="." method="_on_HTTPRequest_request_completed"]

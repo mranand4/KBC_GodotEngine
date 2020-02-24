@@ -1,0 +1,55 @@
+[gd_scene load_steps=10 format=2]
+
+[ext_resource path="res://assets/scripts/question.gd" type="Script" id=1]
+[ext_resource path="res://assets/scns/background.tscn" type="PackedScene" id=2]
+[ext_resource path="res://assets/scns/ques_and_op.tscn" type="PackedScene" id=3]
+[ext_resource path="res://assets/scns/lifelines.tscn" type="PackedScene" id=4]
+[ext_resource path="res://assets/sprites/take_n_quit.png" type="Texture" id=5]
+[ext_resource path="res://assets/sprites/take_n_quit_pressed.png" type="Texture" id=6]
+[ext_resource path="res://assets/fonts/disco-bling.ttf" type="DynamicFontData" id=7]
+[ext_resource path="res://assets/sounds/201109__zilverton__electric-chimes.ogg" type="AudioStream" id=8]
+
+[sub_resource type="DynamicFont" id=1]
+size = 24
+outline_size = 1
+outline_color = Color( 0.937255, 0.890196, 0.176471, 1 )
+extra_spacing_char = 1
+font_data = ExtResource( 7 )
+
+[node name="question" type="Node2D"]
+script = ExtResource( 1 )
+
+[node name="background" parent="." instance=ExtResource( 2 )]
+
+[node name="ques_and_op" parent="." instance=ExtResource( 3 )]
+position = Vector2( 0, 239 )
+
+[node name="lifelines" parent="." instance=ExtResource( 4 )]
+position = Vector2( -7.03233, 116.901 )
+
+[node name="take_n_quit" type="TextureButton" parent="."]
+margin_left = 938.116
+margin_top = 10.6002
+margin_right = 1002.12
+margin_bottom = 74.6002
+texture_normal = ExtResource( 5 )
+texture_pressed = ExtResource( 6 )
+
+[node name="qno" type="Label" parent="."]
+margin_left = -500.0
+margin_top = 13.0
+margin_right = 24.0
+margin_bottom = 56.0
+custom_fonts/font = SubResource( 1 )
+text = "QUESTION NUMBER  : "
+
+[node name="qnot" type="Tween" parent="."]
+
+[node name="ques_theme" type="AudioStreamPlayer" parent="."]
+stream = ExtResource( 8 )
+
+[node name="ques_theme_finish" type="Timer" parent="."]
+autostart = true
+
+[connection signal="pressed" from="take_n_quit" to="." method="_on_take_n_quit_pressed"]
+[connection signal="timeout" from="ques_theme_finish" to="." method="_on_ques_theme_finish_timeout"]
