@@ -8,6 +8,6 @@
 
 # Screenshots
 
-![alt-text](https://github.com/mranand4/KBC_GodotEngine/blob/master/ques/com.bitpix.kbc%20.png?raw=true)
+![alt-text](https://github.com/mranand4/KBC_GodotEngine/blob/master/ques/com.bitpix.kbc%20(1).png?raw=true)
 
 
