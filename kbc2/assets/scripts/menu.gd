@@ -36,7 +36,7 @@ func _ready():
 	VisualServer.set_default_clear_color(Color(0,0,0))
 	$background.hide()
 	$buttons.hide()
-	$total_ques.request("https://raw.githubusercontent.com/ShivanshAnand/millionaire_godot/master/tq.txt")
+	$total_ques.request("https://raw.githubusercontent.com/mranand4/KBC_GodotEngine/master/ques/tq.txt")
 	global_script._set_initial_ques_number()
 	
 # ads start
