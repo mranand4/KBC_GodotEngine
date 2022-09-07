@@ -1,0 +1,30 @@
+{
+
+"ques":["In the film Sholay, what instrument does Jay play?",
+"Which colonial power introduced the cultivation and consumption of cashew, potato, tomato and chilli to India  ?",
+"In 1943, which industrialist established the United Commercial Bank , now known as UCO Bank  ?",
+"Which of these is the name of a Multi-course meal in Kashmiri Cuisine  ?",
+"Which of these sports commences when the referee tosses the ball into the air over the centre circle  ?",
+"ften used as a slogan , what is the meaning of the word 'inquilab'  ?",
+"hich of these organisations won the Nobel prize in 2012  ?",
+"hich chemical element did Humphry Davy name after a Greek word meaning 'yellowish green '  ?",
+" Which is the only species of red deer found in India  ?",
+" Where was the first Indian Institute of Management established in 1961 ?",
+" Chali was the summer capital of which of these former princely states  ?",
+],
+
+"op":[["Bhansuri","Guitar","Mouth Organ","Harmonium"],
+[" British "," Dutch "," French "," Portuguese "],
+[" Jamnalal Bajaj "," Ambalal sarabhai "," Ghanshayam Das Birla "," Nowroji Saklatwala "],
+[" Wazwan "," Gushtaba "," Yakhni "," Rogan Josh "],
+[" Volleyball "," Basketball "," Football "," Tennis "],
+[" Surrender "," Victory "," Revolution "," Long Life "],
+[" European Union "," International court of justice "," Greenpeace "," International Atomic Energy Agency. "],
+[" Chlorine "," Hydrogen "," Helium "," Methane "],
+[" Chital "," Krishna Mriga "," Hangul "," Chiru "],
+[" Lucknow "," Ahmedabad "," Banglore "," Calcutta "],
+[" Jind "," Patiala "," Kapurthala "," Nabha "]],
+
+"ans":[2,3,2,0,1,2,0,0,2,3,1]
+
+}

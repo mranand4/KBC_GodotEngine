@@ -1,0 +1,30 @@
+{
+
+"ques":["Which of these terms is used for a state of political hostility characterized by threats or propaganda between countries ?",
+"In 2011, who replaced Gary Kirsten as the coach of the Indian Test cricket team ?",
+"Who founded the political party National People's Party (NPP) in January 2013 ?",
+"During the start of his political life, Sher Shah Suri was the 'jagirdar' of which place ?",
+"Which state or UT of India is divided into four districts - all named after the four cardinal directories ?",
+"Who holds the record of being elected to the Lok Sabha for the most number of terms ?",
+"What was the name of Jain tirtankar Mahavira's wife ?",
+"Which of these Indian currency notes does not have the special geometrical shape that helps the visually impaired denominations ?",
+" Emulsion, primer and undercoat are all terms connected with what  ?",
+" Which of these is the name for a kind of shot in badminton  ?",
+"Starting from the northernmost , arrange these capital cities in clockwise direction :(A)Mumbai (B)Kolkata (C)Delhi (D)Chennai"
+],
+
+"op":[[" Summer War "," Cold War "," Rainy War "," Spring War "],
+[" Dav Whatmore "," John Wright "," Duncan Fletcher "," Gerg Chappel "],
+[" Amar Singh "," B. S. Yeddyurappa "," P. A. Sangama "," Keshubhai Patel "],
+[" Rohtak "," Sasaram "," Mathua "," Darbhaga "],
+[" Sikkim "," Goa "," Manipur "," Chandigarh "],
+[" Atal Bihari Vajpayee "," Indrajit Gupta "," P. M. Sayeed "," Babu Jagjivan Ram "],
+[" Devaki "," Rohini "," Subhadra "," Yashoda "],
+[" Rs 100 "," Rs 50 "," Rs 1000 "," Rs10 "],
+[" Painting "," Knitting "," Sewing "," Cooking "],
+[" Bounce "," Yorker "," Drop "," Bout "],
+["C-B-D-A","B-D-A-C","A-D-B-C","C-B-A-B"]],
+
+"ans":[1,1,2,1,1,0,1,3,0,2,0]
+
+}

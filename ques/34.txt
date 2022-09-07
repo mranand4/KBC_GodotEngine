@@ -1,0 +1,30 @@
+{
+
+"ques":["Which part of the human eye is used during an eye transplant ?",
+"Which was the first film directed by Yash Chopra ?",
+"Which yoga guru's autobiography is titled 'Autobiography of a Yogi' ?",
+"Parupalli Kashyap represents India in which sport ?",
+"Under whose captaincy did Deccan Chargers once become IPL champions ?",
+"Which of these leaders holds the record of being the youngest as well as the oldest Chief minister of his state  ?",
+"Which of these is the main ingredient of the famous sweet 'Rosogolla' ?",
+"Mogra and Juhi are types of what ?",
+" Which is the only finger in the human hand that contains two bones ?",
+" Who is this singer, who won a National Award for this song ?",
+" What is the name of the superstorm that hit the East Coast of USA in end October 2012 ?",
+],
+
+"op":[[" Retina "," Iris "," Lens "," Cornea "],
+[" Daag "," Waqt "," Dhool Ka Phool "," Dharmputra "],
+[" Rajarsi Janakananda "," Paramahansa Yogananda "," Baba Ramdev "," Shyama Charan Lahiri "],
+[" Boxing "," Shooting "," Tennis "," Badminton "],
+[" Adam Gilchrist "," V. V. S. Laxman "," Kumar Sangakkara "," Shahid Afridi "],
+[" N. D. Tiwari "," Prakash Singh Badal "," M. Karunanidi "," Prem Kumar Dhumal "],
+[" Besan "," Nariyal "," Chhena "," Ghee "],
+[" Flowers "," Ornaments "," Spices "," Musical Instruments "],
+[" Forefinger "," Little Finger "," Ring Finger "," Thumb "],
+[" Sadhana Sargam "," Shreya Ghoshal "," Shilpa Rao "," Sunidhi Chauhan "],
+[" Joshina "," Annie "," Sandy "," Andy "]],
+
+"ans":[3,2,1,3,0,1,2,0,3,1,2]
+
+}

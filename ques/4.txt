@@ -1,0 +1,30 @@
+{
+
+"ques":["What do the five rings of the Olympics represent ?",
+"Lockjaw is a symptom of which of these disease ?",
+"Bharatpur Bird Century was named Keoladeo Ghana National Park after a temple dedicated to which God or Goddess ?",
+"With which religion would you associate the practice of Santhara fasting unto death ?",
+"The cricket Test series played between India and England in India is contested for which trophy ?",
+"Which of these tourist attractions is situated on an island  ?",
+"Which of these actress is married to a professional golfer ?",
+"According to the Devi, Bhagavata, from the tears of which god is the rudraksha tree believed to have been created ?",
+" Which of these is a chemical element present in the periodic table ?",
+" Which of these world champions is a parent of twins ?",
+" Which of these is not a work of Kalidas ?",
+],
+
+"op":[[" Five games "," Five languages "," Five continents "," Five oceans "],
+[" Tetanus "," Cholera "," Plague "," Diphtheria "],
+[" Kali "," Yama "," Kuber "," Shiva "],
+[" Jainism "," Sikhism "," Shintoism "," Buddhism "],
+[" Pataudi Trophy "," Anthony De Mello trophy "," M. A. Chidambaram Trophy "," Gooch Gavaskar Trophy "],
+[" Ellora Caves "," Ajanta Caves "," Kanheri Caves "," Elephanta Caves "],
+[" Chitrangada Singh "," Celina Jaitly "," Esha Deol "," Ayesha Takia "],
+[" Vishnu "," Shiva "," Nhrama "," Kamadeva "],
+[" Eurocium "," Americium "," Asiacium "," Africium "],
+[" Sushil Kumar "," M. C. Mary Kom "," Vishwanathan Anand "," Gagan Narang "],
+[" Raghuvamsham "," Meghadutam "," Vikramorvasiyam "," Kadambari "]],
+
+"ans":[2,0,3,0,1,3,0,1,1,1,3]
+
+}

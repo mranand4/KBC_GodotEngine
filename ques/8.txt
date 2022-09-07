@@ -1,0 +1,30 @@
+{
+
+"ques":["Which of these is the title of a film starring Akshay Kumar and Sonakshi Sinha ?",
+"In which of these geometrical shapes is the sum of all the angles equal to 180 degrees  ?",
+"Which of these figures is portrayed in Vijay Tendulkar's play ' Ghasiram Kotwal'  ?",
+"Which State in India has the longest coastline of about 1600 Km  ?",
+"Which of these countries is not a part of BRICS, an association of leading emerging economies  ?",
+"Who is the first woman to win the Rajiv Gandhi Khel Ratna  ?",
+"Who was called ' Father of the Lok Sabha' by Pandit Nehru  ?",
+"Who becomes 'badnaam' for her 'darling' according to the song from 'Dabangg'  ?",
+"'Vakratunda mahakaya, suryakoti samaprabha, nirvighnam kuru mey deva, sarva karyeshu sarvada ' is sung in praise of whom  ?",
+" Sanganer, situated near Jaipur, is a renowned centre of what kind of handicraft  ?",
+"In February 2012, What jubilee was celebrated by queen Elizabeth II, the longest reigning monarch of Britian ?",
+],
+
+"op":[["Rowdy Rathore","Singham","Lovely Singh","Dabangg"],
+[" Triangle "," Square "," Rectangle "," Circle "],
+[" Ranoji Scindia "," Balaji Vishwanath "," Sadashivrao Bhau "," Nana Phadnavis "],
+[" Gujrat "," Tamil Nadu "," Maharashtra "," Odisha "],
+[" China "," India "," Canada "," Russia "],
+[" Karnam Malleswari "," Jyotirmoyee Sikdar "," Anju Bobby George "," Anjali Bhagwat "],
+[" U N Dhebar "," G V Mavalankar "," J B Kripalani "," R K Shanmukham Chetty "],
+[" Sheila "," Bebo "," Chameli "," Munni "],
+[" Shiva "," Rama "," Ganesha "," Krishna "],
+[" Batik printing "," Block printing "," Chikankari "," Zardozi "],
+["Platinum Jubilee","Silver Jubilee","Diamond Jubilee","Golden Jubilee"]],
+
+"ans":[0,0,3,0,2,0,1,3,2,1,2]
+
+}

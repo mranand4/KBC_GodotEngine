@@ -1,0 +1,30 @@
+{
+
+"ques":["Which character in the film '3 idiots' had the ability to wrote with both hands?",
+"Which of these would you get on the completion of a course of study at college  ?",
+"Which place in Gujarat is the meeting point of seven rivers, saptasangam, where the largest animal fair of the state is held  ?",
+"In 2012, which of these countries has been removed by WHO from the polio-endemic countries  ?",
+"Who won the 'ICC ODI Cricketer of the Year' award in 2012  ?",
+"Which President proclaimed Emergency in India on 26 June 1975  ?",
+"To Which of these poets did Mahatma Gandhi give the title of 'Rashtriya Shayar'  ?",
+"Which politician used to write a cinema column in his early career under the pen name 'Netra' in the journal 'Organiser'  ?",
+" Which of these appears in the sky usually just after rain  ?",
+" With reference to women's attire , 'Ulta palla' and 'Seedha palla' are associated with what  ?",
+" Which film has been named as India's official entry for the 2013 Oscars  ?",
+],
+
+"op":[["Chatur","Virus","Rancho","Millimeter"],
+[" Fahrenheit "," Kelvin "," Degree "," Celsius "],
+[" Vautha "," Vardha "," Tarnetar "," Ahwa "],
+[" Pakistan "," Nigeria "," India "," Afghanistan "],
+[" Lasith Malinga "," M. S. Dhoni "," Virat Kohli "," Kumar Sangakkara "],
+[" V. V. Giri "," Fakhruddin Ali Ahmed "," Zakir Hussain "," Neelam Sanjiva Reddy "],
+[" Umashankar Joshi "," Jhaverchand Meghani "," Tribhuvndas Luhar "," Chandravadan Mehta "],
+[" L K Advani "," Jaswant Singh "," Narendra Modi "," Atal Bihari Vajpayee "],
+[" Bheemgada "," Rudratrishul "," Indradhanush "," Ramawan "],
+[" Choli "," Aanchal "," Lehnga "," Ghagra "],
+[" Kahaani "," Barfi "," Paan Singh Tomar "," Vicky Donor "]],
+
+"ans":[1,2,0,2,2,1,1,0,2,1,1]
+
+}

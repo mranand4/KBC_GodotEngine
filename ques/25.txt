@@ -1,0 +1,30 @@
+{
+
+"ques":["Which of these tennis players has won an Olympic medal for India  ?",
+"The Father of which of these leaders was the first President of his country  ?",
+"According to a Hindi proverb, if one accepts defeat by someone else then what would he do  ?",
+"In the film 'Lage Raho Munna Bhai' , what does Munna Bhai give people in order to change their hearts  ?",
+"Which of these is an appliance used for voltage regulation  ?",
+"In the field of medicine , which of these problems is treated with the help of IVF technique  ?",
+"Who presented the Rail Budget for 2012-13 in the Parliament of India  ?",
+" In the Mahabharata, who acquired the strength of 8000 elephants after drinking the elixir given to him by Nagraj Vasuki  ?",
+" Which of these bowlers has scored two Test centuries  ?",
+" Which country's Prime Minister was invited as the chief guest at the Republic Day parade in New Delhi in 2012  ?",
+" The Vivek Express traversing the longest route on the Indian Railways network runs between Kanyakumari and which other city  ?",
+],
+
+"op":[[" Leander Paes "," Sania Mirza "," Rohan Bopanna "," Mahesh Bhupathi "],
+[" Sheikh Hasina "," Khaleda Zia "," Aung San Suu Kyi "," Chandrika Kumaratunga "],
+[" Lakdi katega "," Hathoda peetega "," Jaal bichhayega "," Loha manega "],
+[" The Tricolour "," Gandhiji's Photograph "," Bhagwad Gita "," Flowers "],
+[" Stabilizer "," Inverter "," UPS "," Charger "],
+[" Infertility "," Artery Blockage "," Kidney failure "," Night Blindness "],
+[" C. P. Joshi "," Mukul Roy "," Lalu Prasad "," Dinesh Trivedi "],
+[" Bhima "," Ghatotkacha "," Jarasandha "," Duryodhana "],
+[" Harbhajan Singh "," Irfan Pathan "," Umar Gul "," Brad Hogg. "],
+[" Thailand "," Australia "," Finland "," Italy "],
+[" Jammu "," Dibrugarh "," Amritsar "," Dwarka "]],
+
+"ans":[0,0,3,3,0,0,3,0,0,0,1]
+
+}

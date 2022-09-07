@@ -1,0 +1,30 @@
+{
+
+"ques":["In international cricket, what was first introduced in an ODI between Zimbabwe and England on 1 January 1997 ?",
+"Which of these Hindi proverbs means 'to invite trouble' ?",
+"What does Hamid buy with the modest three paise he receives in his 'Eidi' in Premchand's short story 'Eidgarh' ?",
+"Which state has the highest coal reserve in India ?",
+"Which wedding is traditionally associated with the festival of 'Vivah Panchami' celebrated in the Mithila region in Nov-Dec ?",
+"Which of these father-son pairs have served as chief ministers of two different states ?",
+"What is the 'shot' in the Olympic sport of 'Shot Put' ?",
+" Who is the only member of the 15th Lok Sabha to get elected to the House unopposed ?",
+" In Delhi, What are Teez hazari, Welcome, Kashmere Gate and Vishwa Vidyalaya ?",
+" Who founded the Indian Boy Scouts' Association around 1917 in Madras ?",
+" In Mahabharata, which game was played between Yudhistra and Shakuni?",
+],
+
+"op":[[" Hawk Eye "," Third Umpire "," Duckworth Lewis Method "," Hot Spot "],
+[" Chal Kabutar Ud Ja "," Aa Bail Mujhe Maar "," Aa Sher Mujhe Ka "," As ghode mujhe Gira "],
+[" Chimta "," Jalebi "," Khilona "," Kitaab "],
+[" Jharkhand "," Odisha "," Chhatisgarh "," Andhra Pradesh "],
+[" Shiva-Parvati "," Rama-Sita "," Vishnu-Lakshmi "," Krisna-Rukmini "],
+[" Mulayam Singh-Akhilesh Yadav "," Farooq Abdullah-Omar Abdullah "," Biju Patnaik-Naveen Patnaik "," H. N. Bahuguna-Vijay Bahuguna "],
+[" Rubber Disc "," Metal Ball "," Wooden Stick "," Javelin "],
+[" Agatha Sangma "," Dimple Yadav "," Harsimarat Kaur Badal "," Kanimozhi "],
+[" universities "," Courts "," Gates of old Delhi "," Metro Stations "],
+[" Annie Besant "," Robert Baden Powell "," J. S. Wilson "," Mangal Das Pakvasa "],
+["Patangbaji","Ghud Savar","Pason ka khel","Talwarbaji"]],
+
+"ans":[2,1,0,0,1,3,1,1,3,0,2]
+
+}

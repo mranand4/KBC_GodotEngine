@@ -1,0 +1,30 @@
+{
+
+"ques":["Which of these Hindi words means 'continuation' ?",
+"Which of these deities is also known as 'Janak Dulari' and 'Janak Nandini' ?",
+"Which country does the athlete Usain Bolt represent in international sport ?",
+"Apart from Raman Singh, who is the only other person to become chief minister of Chhatisgarh ?",
+"What is the last Indian railway station before crossing into Pakistan on the Amritsar-Lahore line ?",
+"Which is the first Hindi film pair to ring the 'opening bell' of the Nasdaq stock exchange ?",
+"Which of these states has a national park named after a former governor general of India ?",
+" According to a Hindi proverb, which of these does one get reminded of in difficult times ?",
+" In the world of fashion, what are kitten, stiletto and wedge types of ?",
+" Who has Forbes magazine listed as India's richest person in 2012 ?",
+" According to the ramayana, which of these brothers were born from the same mother ?",
+],
+
+"op":[[" Lamhe "," Silsila "," Faasle "," Kabhi Kabhie "],
+[" Saraswati "," Radha "," Rukmini "," Sita "],
+[" Jamaica "," Kenya "," USA "," South Africa "],
+[" Dilip Singh Judeo "," Nand Kumar Patel "," Ajit Jogi "," Mahendra Karma "],
+[" Attari "," Wagah "," Pathankot "," Firozpur "],
+[" Ranbir Kapoor - Katrina Kaif "," Akshay Kumar - Katrina Kaif "," Shah Rukh Khan - Kajol "," Kareena Kapoor - Saif Ali Khan "],
+[" Madhya Pradesh "," Karnataka "," Uttarakhand "," Rajasthan "],
+[" Registaan ki Dhool "," Barish ki boond "," Samundar ka paani "," Chhathhi ka doodh "],
+[" Necktie Knots "," Shoe Heels "," Mini Skirts "," Hair Pins "],
+[" Pallonji Mistry "," Dilip Shanghvi "," Mukesh Ambani "," Azim Premji "],
+[" Rama-Lakshmana "," Bharata-Shatrughana "," Rama-Bharata "," Lakshmana-Shatrughana "]],
+
+"ans":[1,3,0,2,0,2,2,3,1,2,3]
+
+}

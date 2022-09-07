@@ -1,0 +1,30 @@
+{
+
+"ques":["What would you do with a discus in a competitive sports event ?",
+"Which of these is another word for snakr charmer's 'been' ?",
+"Which of these countries has a tradition of holding television debates between the main candidates in a presidential election ?",
+"In which city will the Kumbh Mela be held in 2013 ?",
+"In ODIs, who has the record for the highest individual score ?",
+"Which planet in our solar system takes the least amount of time to complete one revolution around the sun ?",
+"Which Bharat Ratna was affectioanally (affectionately) called Rajarshi ?",
+" According to Hindu mythology, the son of Krishna and Rukmini, Pradyumna is an incarnation of which God ?",
+" With reference to the human body, what is 'hajma' ?",
+" In the story 'Unity is strength', what does the farmer give his sons to break ?",
+" Chemotherapy is mainly used to treat which of these diseases ?",
+],
+
+"op":[[" Talk to it "," Chase it "," Throw it "," Beat it "],
+[" Pungi "," Baansuri "," Shehnai "," Sitar "],
+[" Russia "," France "," USA "," UK "],
+[" Allahabd "," Haridwar "," Nashik "," Ujjain "],
+[" Virendar Sehwag "," Sachin Tendulkar "," Saeed Anwar "," Chris Gayle "],
+[" Mars "," Earth "," Venus "," Mercury "],
+[" Purushottam Das Tandon "," Bhagwan Das "," Pandurang Vaman Kane "," Dhondo Keshav Karve "],
+[" Kama "," Surya "," Agni "," Vayu "],
+[" Tolerance "," Eyesight "," memory "," Digestion "],
+[" Wooden Sticks "," Bricks "," Glass Utensils "," Iron Rod "],
+[" AIDS "," TB "," Cancer "," Polio "]],
+
+"ans":[2,0,2,0,0,3,0,0,3,0,2]
+
+}

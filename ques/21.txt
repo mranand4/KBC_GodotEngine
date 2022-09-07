@@ -1,0 +1,30 @@
+{
+
+"ques":["Which of these books on the life of Mughal Emperor is an autobiography ?",
+"Which of these is the title of a TV series telecast on SAB TV ?",
+"Ho many zeroes are placed after 1 to write 10 lakh in figures ?",
+"Which of these epics starts with the Bala Kand and ends with the Uttara Kand ?",
+"In the film 'Agend Vinod', Saif Ali Khan works as a secret agent for which intelligence agency ?",
+"In which of these sports has India won Olympic medals in 2004, 2008 and 2012 ?",
+"Which Indian state has the largest area under forests ?",
+" Which of these food items are commonly eaten 'steamed' or 'fried' ?",
+" About what did Prime minister Manmohan Singh say in his address to the nation in Sep 012 that it does not grow on trees ?",
+" Which is the largest car manufacturing co. in India with sales of more than 1 crore units since its inception ?",
+" Whose car do the protagonists of the movie 'Ferrari Ki Sawari' steal ?",
+],
+
+"op":[[" Humayun-nama "," Ain-i-Akbari "," Tuzuk-i-Jahangari "," Shajahan-nama "],
+[" Ajaib Ghar "," Shanta Ghar "," Gol Ghar "," Chidiya Ghar "],
+[" Four "," Six "," Five "," Seven "],
+[" Mahabharata "," Ramayana "," Gita Govinda "," Padmavat "],
+[" IB "," R&AW "," FBI "," CBI "],
+[" Wrestling "," Boxing "," Shooting "," Weightlifting "],
+[" Madhya Pradesh "," Chhattisgarh "," Arunachal Pradesh "," Karnataka "],
+[" Pickles "," Cake "," Momos "," Pizza "],
+[" Gas Cylinder "," Vote "," Money "," Diesel "],
+[" Tata Motors "," Maruti Suzuki "," Hyundai Motors "," Mahindra & Mahindra "],
+[" Sachin Tendulkar "," Vidhu Vinod Chopra "," Michael Schumacher "," Narain Karthikeyan "]],
+
+"ans":[2,3,1,1,1,2,0,2,2,1,0]
+
+}

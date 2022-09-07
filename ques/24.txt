@@ -1,0 +1,30 @@
+{
+
+"ques":["Which of these is the title of a TV show on Sony Entertainment Television starring Ronit Roy  ?",
+"At which of these times would the two hands of a clock form the shape of the English capital letter ' L '  ?",
+"Which gas protects the earth from U V radiations of the Sun  ?",
+"Which country will host the FIFA World Cup in 2014  ?",
+"What was the capital of Awadh before Nawab Asaf-ud-daula shifted it to Lucknow in 1775  ?",
+"Which of these books by A. P. J. Abdul Kalam is a sequel to his autobiography 'Wings of Fire'  ?",
+"Which constituency is represented by Maneka Gandhi in the 15th Lok Sabha  ?",
+" Which of these words is slang for ' Money '  ?",
+" After undergoing which of these processes would you find a glow on the skin of your face  ?",
+" Which of these is a kind of printed sari traditionally worn during the Teej festival in Rajasthan  ?",
+" In terms of area, which is the largest Union territory of India  ?",
+],
+
+"op":[[" Andhaa Kanoon "," Insaf "," Kachehari "," Adaalat "],
+[" 1200 Hrs "," 1800 Hrs "," 1500 Hrs "," 1900 Hrs "],
+[" Ozone "," Carbon Dioxide "," Methane "," Oxygen "],
+[" Qatar "," Brazil "," Germany "," Spain "],
+[" Faizabad "," Agra "," Jhansi "," Allahabad "],
+[" The Luminous Sparks "," Turning Points "," Mission India "," Ignited Minds "],
+[" Pilibhit "," Bareilly "," Aonia "," Badaun "],
+[" Thobda "," Makda "," Bakra "," Rokda "],
+[" Manicure "," Facial "," Pedicure "," Rebinding "],
+[" Lehariya "," Panihari "," Ghevar "," Bhawani "],
+[" Daman and Diu "," Andaman and Nicobar Islands "," Lakshadweep "," Puducherry "]],
+
+"ans":[3,2,0,1,0,1,2,3,1,0,1]
+
+}

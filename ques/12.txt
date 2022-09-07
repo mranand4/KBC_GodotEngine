@@ -1,0 +1,30 @@
+{
+
+"ques":["Complete this Hindi proverb, ' Ulta Chor ....'  ?",
+"Which of these cricketers has captained two different IPL teams  ?",
+"On Which mission did Neil Armstrong first go into space  ?",
+"Arrange these words in the correct to form a famous line from Hindi film ' 3 Idiots ' : (A)Tussi (B)Ho (C)Jahanpanah (D)Great  ?",
+"Which of the following is not the name of a Facebook functionality  ?",
+"In 2012, under whose captaincy did India win the ICC Under -19 Cricket World Cup  ?",
+"Which of these words or names means 'os' or 'dew'  ?",
+" The Large Hadron Collider (LHC) , the World's largest and highest energy particle accelerator, is situated at which organization  ?",
+" Who directed Rajesh Khanna in his first ever TV commercial ?",
+" Who administered the oath of office to Dr. Manmohan Singh when he became Prime Minister for the first time ?",
+" According to the 2011 Census, which of these cities has the highest population after Mumbai and Delhi ?",
+],
+
+"op":[[" Vakil se ruthe "," Sipahi ko loote "," Gharwaale ko pite "," kotwaal ko daante "],
+[" Harbhajan Singh "," Gautam Gambhir "," Virendar Sehwag "," Anil Kumble "],
+[" Apollo 11 "," Gemini 8 "," Apollo 8 "," Ranger 8. "],
+[" C-A-D-B "," A-D-B-C "," D-B-A-C "," C-A-B-D "],
+[" Like "," Share "," Poke "," Tweet. "],
+[" Smit Patel "," Unmukt Chand "," Baba Aparajith "," Harmeet Singh "],
+[" Tabassum "," Afreen "," Shabnam "," Shabnam "],
+[" Fermilab "," NASA "," SLAC Lab "," CERN "],
+[" R Balki "," Shyam Benegal "," Pradeep Sankar "," Prahlad Kakkar "],
+[" Pratibha Patil "," A. P. J. Abdul Kalam "," K. R. Narayan "," Shankar Dayal Sharma "],
+[" Chennai "," Bengaluru "," Hyderabad "," Kolkata "]],
+
+"ans":[3,1,1,0,3,1,2,3,0,1,3]
+
+}

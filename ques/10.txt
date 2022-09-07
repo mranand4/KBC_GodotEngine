@@ -1,0 +1,30 @@
+{
+
+"ques":["In Which city is wasseypur situated  ?",
+"Which historic tragedy is highlighted in Amrita Pritam's novel 'Panjar' ?",
+"Alex Paul Menon, who was kidnapped in April 2012, is the first Collector of which of these districts  ?",
+"Which team won the Santosh Trophy football tournament in 2012  ?",
+"Which of these pairs of colours share their name with variants of tea  ?",
+"In the TV Serial 'Bade Ache Lagte Hain' who does the little girl Pihu call Golu Uncle  ?",
+"The full name of which of these IPL teams contains the word 'India'  ?",
+"Which two countries hosted the 2012 UEFA European Football Championships  ?",
+" Which entrepreneur's autobiographical work is tilted ' It Happened in India'  ?",
+" Which leader said to cartoonist Shankar, Don't spare me' when he inaugrated Shankar's Weekly in 1948  ?",
+" What was the name of the Italian ship that was detained in Kerala in February 2012  ?",
+],
+
+"op":[[" Dhanbad "," Ranchi "," Patna "," Varanasi "],
+[" Jallianwala Bagh Massacre "," 1984 Riots "," Emergency "," Partition "],
+[" Bastar "," Bilaspur "," Sukma "," Dantewada "],
+[" Services "," Railways "," Bengal "," Tamil Nadu "],
+[" Blue and Brown "," Black and Green "," Red and Orange "," Yellow and Violet "],
+[" Ram Kapoor "," Rajat Kapur "," Vikram Shergill "," Karthik Sharma "],
+[" Knight Riders "," Daredevils "," Warriors "," Royal Challengers "],
+[" Austria and Switzerland "," Belgium and Holland "," Poland and Ukraine "," Spain and Portugal "],
+[" N. R. Narayana Murthy "," Vijay Mallya "," P. Gopinath "," Kishore Biyani "],
+[" B. R. Ambedkar "," Jawaharlal Nehru "," Mahatma Gandhi "," Rajendra Prasad "],
+[" Costa Concordia "," Calo Duilio "," Enrica Lexia "," Etna "]],
+
+"ans":[0,3,2,0,1,0,2,2,3,1,2]
+
+}

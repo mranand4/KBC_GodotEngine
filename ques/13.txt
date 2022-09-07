@@ -1,0 +1,30 @@
+{
+
+"ques":["What has the Admiral Gorshkov aircraft carrier bought by India been renamed as ?",
+"What was the code-name of the Hyderabad Police Action undertaken to get Hyderabad State to become part of India in 1948 ?",
+"Which surgeon performed the first human liver transplant in 1963 ?",
+"Who has been the youngest president of the Indian National Congress ?",
+"Which of these items is the main ingredient of 'Shrikand' ?",
+"What is the Marathi language channel of Doordarshan called ?",
+"Vasundhara Raje Scindia was the first female chief minister of which state ?",
+" Which city in Madhya Pradesh is known for the legendary love story of Baz Bahadur and Rani Roopmati ?",
+" In which sport has Deepika Kumari and Rahul Banerjee represented India at the 2012 London Olympics ?",
+" Where in Gujarat is the Tata Nano plant located ?",
+" Which of the is the name of a vegetable or fruit ?",
+],
+
+"op":[[" INS Viraat "," INS Samudragupta "," INS Vikramaditya "," INS Bramhaputra "],
+[" Operation Checkmate "," Operation Polo "," Operation Meghdoot "," Operation Python "],
+[" Dr James D. Hardy "," Dr. Norman Shumway "," Dr. Thomas E. Starzl "," Dr. William Kelly "],
+[" Rajiv Gandhi "," Sarojini Naidu "," Sir Henry Cotton "," Maulana Abul Kalam Azad "],
+[" Ice Cream "," Curd "," Rice "," Besan "],
+[" DD Sahyadri "," DD Saptagiri "," DD Bharti "," DD Chandana "],
+[" Rajasthan "," Madhya Pradesh "," Chhattisgarh "," Maharashtra "],
+[" Anjaneri "," Mandu "," Dabhoi "," Chanderi "],
+[" Rowing "," Gymnastics "," Archery "," Shooting "],
+[" Porbandar "," Khambat "," Anand "," Sanand "],
+[" Seetaphal "," Manthara Phool "," Kaikeyi Jad "," Mandodari Pushp "]],
+
+"ans":[2,1,2,3,1,0,0,1,2,3,0]
+
+}

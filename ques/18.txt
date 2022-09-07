@@ -1,0 +1,30 @@
+{
+
+"ques":["What is the traditional occupation of the Kalbelia tribe, known for its Kalbelia dance ?",
+"Who was the NDA backed candidate against Hamid Ansari in the 2012 Indian Vice-Presidential elections ?",
+"Which of these creatures can look up with one eye while looking down with the other eye at the same time ?",
+"The 'Jal Satyagraha' protest launched in August 2012 is associated with which of these dams ?",
+"Which of these festivals is not celebrated on a full moon ?",
+"Under whose captaincy has India won the most number of test Matches until now ?",
+"According to the Mahabharata, which Pandava got his name from the fact that there was no one more handsome than him in the family ?",
+"Which of these is the score of a player with no points in a game of tennis ?",
+" Which of the following is a form of a dance as well as a tangy sauce ?",
+" Which of these hill stations literally means 'Three Rivers' in Tamil and Malayalam ?",
+" Which of these is a kind of sari named after a place in Maharashtra ?",
+],
+
+"op":[[" Shepherds "," Snake Charmers "," Magicians "," Tailors "],
+[" Yashwant Sinha "," S. Y. Quereshi "," Jaswant Singh "," Arun Jaitley "],
+[" Bat "," Shark "," Chameleon "," Owl "],
+[" Omkareshwar "," Sardar Sarovar "," Tehru "," Gandhi Sagar "],
+[" Holika Dahan "," Raksha Bandhan "," Janmashtami "," BuDh Jayanti "],
+[" M S Dhoni "," Sourav Ganguly "," Md Azharuddin "," Kapil Dec "],
+[" Arjuna "," Bheema "," Sahdeva "," Nakula "],
+[" Kiss "," Hug "," Romance "," Love "],
+[" Samba "," Salsa "," Hip-Hop "," Disco "],
+[" Munnar "," Madikeri "," Kodaikanal "," Peerumedu "],
+[" Jamdani "," Paithani "," Navsari "," Chanderi "]],
+
+"ans":[1,2,2,0,2,1,3,3,1,0,1]
+
+}

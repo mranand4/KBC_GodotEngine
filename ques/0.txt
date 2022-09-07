@@ -1,0 +1,28 @@
+{
+	"ques":["Which of these is the title of a film directed by Rohit Shetty ?",
+	"Which of these cannot be the same for two different persons ?",
+	"Which of these Chief Minister of an Indian State is an IIT Graduate ?",
+	"Who did Viswanathan Anand defeat in 2012 to retain the world Chess Champion title ?",
+	"Which river was set as the eastern boundary of Maharaja Ranjit Singh’s kingdom by the Treaty of Amritsar of 1809 ?",
+	"Complete the Hindi proverb : “Ab Pachhtave hoth kya jab Chidiya Chug gayi....?",
+	"Which of these lines would you associate with Akshay Kumar in 'Rowdy Rathore' ?",
+	"Which Country’s Head of State visited Ajmer Sharif in April 2012 and announced a donation of Rs. 5 Crore ?",
+	"According to the Ramayana, whose flag had a veena motif on it ?",
+	"Which State did P. A. Sangama serve a s Chief Minister from 1988 to 1990 ?",
+	"Which of these buildings in Rajasthan was built to provide employment to people during a period of famine ?"
+	],
+	
+	"op":[["Devgan Vaani","Shetty Salah","Chal Chopra","Bol Bachchan"],
+	["Fingerprints","Skin Colour","Blood Group","Eye Colour"],
+	["Manohar Parrikar","Okram Ibobi Singh","Kiran Kumar Reddy","Omar Abdullah"],
+	["Rusian Ponomariov","Vladimir Kramnik","Vesselin Topalov","Boris Gelfand"],
+	["Sutlej","Beas","Ghaggar","Ravi"],
+	["Daana","Khet","Moti","Beej"],
+	["Abracadabra","My Name is Khan","I Hate Luv Stories","Don’t Angry Me"],
+	["Bangladesh","Afghanistan","Pakistan","Iran"],
+	["Ravana","Bharata","Meghnada","Vibhishana"],
+	["Arunachal Pradesh","Manipur","Assam","Meghalaya"],
+	["Amber Fort","Hawa Mahal","Mehrangarh Fort","Umaid Bhawan palace"]],
+	
+	"ans":[3,0,0,3,0,1,3,2,0,3,3]
+}

@@ -1,0 +1,30 @@
+{
+
+"ques":["Complete the poem composed by Neeraj Sridhar and Kavitha Seth, 'Tumhi Din Chade, Tumhi Dil Dhale, Tumhi Ho bandhu.....'",
+"Which of these satellites were launched by ISRO in its 100th space mission in September 2012  ?",
+"In Which athletic event did Girisha Nagarajegowda bag a silver medal for India at the 2012 London Paralympic Games  ?",
+"The King of which of these places gifted his kingdom to Shree Padmanabhaswami and resigned as his servant  ?",
+"In which of these places would you find the 'Rashtrapati Nilayam', one of the official retreats of the President of India  ?",
+"Who is the author of the 'Man Booker Prize' winning book 'The Inheritance of Loss'  ?",
+"According to the Mahabharata, which Apsara did Vishvakarma create by collecting small particles from all the beautiful objects in the world  ?",
+"If you are to pick a non-vegetarian dish, which of these would you select  ?",
+" Which of these is a Hindi name for a yellow coloured flower  ?",
+" Which of these social activists has been a central organizer and strategist of 'Narmada Bachao Andolan'  ?",
+" Arrange these members of a family in describing order of seniority , from the seniormost to the juniormost.(A) Pardaddi (B) Poti (C) Daadi (D) Putravadhu",
+],
+
+"op":[["Neta Tumhe","Pita Tumhe","Sakha Tumhe","Maata Tumhe",],
+[" Megha-Tropiques "," Resourcesat & Youthsat "," SPOT-6 & Proiteres "," Lapan-TUBsat & Pehunsat 1 "],
+[" High Jump "," High Jump "," Discus throw "," Shotput "],
+[" Mysore "," Cochin "," Chettinad "," Travancore "],
+[" Nagpur "," Secunderabad "," Darjeeling "," Ooty "],
+[" Jhumpa Lahiri "," Arundhati Roy "," Kiran Desai "," Anita Desai "],
+[" Menaka "," Urvashi "," Tilottama "," Rambha "],
+[" Gatte Ki Sabzi "," Dum Aloo "," Hilsa Fry "," Navratan Korma "],
+[" Chaumukhi "," Surajmukhi "," Jwalamukhi "," Panchmukhi "],
+[" Aruna Roy "," Brinda Karat "," Maneka Gandhi "," Medha Patkar "],
+["A-C-D-B","B-D-C-A","A-C-B-D-","A-D-C-B"]],
+
+"ans":[2,2,0,3,1,2,2,2,1,3,0]
+
+}

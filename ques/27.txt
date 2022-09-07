@@ -1,0 +1,30 @@
+{
+
+"ques":["What is the chemical name of baking soda ?",
+"In which of these places were prehistoric 'rock shelters' discovered which were declared a World Heritage site in 2003 by UNESCO ?",
+"In which story did Premchand describe Dowry as a social problem ?",
+"In which of these Buddhist pilgrim sites was the Kalachakra Puja organised between 31 Dec 2011 to 10 Jan 2012 ?",
+"Which of these fruits has varieties called Maida, Hapus and Chausa ?",
+"Which of these documents can be applied for under the tatkaal service in India ?",
+"Red, Yellow, Green, Orange & Violet are the six routes of which transport network in Delhi ?",
+" In which sport does Sunil Chetri represent India ?",
+" 'Equity Sacings Scheme' proposed in the Union Budget 2012-13 is named after which leader ?",
+" When were Bhagat Singh, Rajguru and Sukhdev hanged ?",
+" Which of these women scientists has been dubbed 'Agni Putri' by the Indian Media ?",
+],
+
+"op":[[" Sodium Chloride "," Sodium Bicarbonate "," Sodium Fluoride "," Sodium Oxalate "],
+[" Chanderi "," Maheshwar "," Sanchi "," Bhimbetka "],
+[" Nirmala "," Rangbhumi "," Gaban "," Pratigya "],
+[" Sarnath "," Sachi "," Bodh Gaya "," Kushinagar "],
+[" Apple "," Orange "," Banana "," Mango "],
+[" Election I-Card "," Aadhar Card "," Passport "," PAN Card "],
+[" HoHo Bus "," Metro Rail "," Ring Railway "," Radio Taxi "],
+[" Hockey "," Football "," Mukkebazhi "," Shooting "],
+[" Lal Bahadur Shastri "," Jawaharlal Nehru "," Indira Gandhi "," Rajiv Gandhi "],
+[" 26 Nov 1930 "," 23 Mar 1931 "," 12 Jan 1934 "," 14 Feb 1931 "],
+[" Kalpana Chawla "," Tessy Thomas "," N Valarmathi "," Sunita Williams "]],
+
+"ans":[1,3,0,2,3,2,1,1,3,1,1]
+
+}

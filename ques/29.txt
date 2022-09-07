@@ -1,0 +1,30 @@
+{
+
+"ques":["According to the 2011 tiger census report of the national Tiger conservation Authority, what is the estimated population of tigers in India ?",
+"Which of these symbols is normally used to indicate the direction of a place ?",
+"Complete this line from a Bhajan bythe bhakti poet Narsinh Mehta 'Vaishnav Jan To tene Kahiye Je ...' ?",
+"Which of these is the name of the anti-corruption initiative started by the Central Vigilance Commission of India ?",
+"In the early phase of his career, in which city did Dhirubhai Ambani work as a petrol station attendant ?",
+"Complete this hindi proverb '... ke gale me ghanti baandhna' that means to do a tough job ?",
+" What does a twelfth of a foot equal to  ?",
+" Which of these fruits of vegetables grows underwater ?",
+" In which of these films did Parineeti Chopra make her acting debut ?",
+" After which of these freedom fighters is a district in Uttarakhand named ?",
+" Who became the first National Security Advisor of India in 1998 ?",
+],
+
+"op":[[" 1411 "," 1127 "," 2822 "," 1706 "],
+[" Bow "," Arrow "," Mace "," Sword "],
+[" Nahin Aiso Janam Barambar "," Sabka Data Ram "," Peerh Paraye Janeyray "," Lagan Lagi Ram Ki "],
+[" Break your silence "," Blow your whistle "," Mind your business "," Clean your system "],
+[" Kuwait "," Doha "," Aden "," Muscat "],
+[" Kuee "," Billi "," Sher "," Chuha "],
+[" An inch "," A centimetre "," A metre "," A Yard "],
+[" Kachnaar "," Shakarkand "," Shareefa "," Singhara "],
+[" Ek Deewana Tha "," Ishaqzaade "," Ladies vs Ricky Bahl "," Ghost "],
+[" Bhagat Singh "," Chandrashekhar Azad "," Sukhdev "," Udham Singh "],
+[" Brajesh Mishra "," M K Narayan "," J. N. Dixit "," K. C. Pant "]],
+
+"ans":[3,1,2,1,2,1,0,3,2,3,0]
+
+}

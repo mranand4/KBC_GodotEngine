@@ -1,0 +1,30 @@
+{
+
+"ques":["Which Character in the film 'Shole' had said this dialogue 'Itna Sannata Kyon Hai Bhai'?",
+"Who was India's flag bearer at the opening ceremony of the 2012 London Olympics  ?",
+"Which of these chief ministers of Uttarakhand retired from the army as a Major-General  ?",
+"Who among these was the daughter of Sultan Iltutmish  ?",
+"According to the Census 2011, which Indian state has more females in comparison to males  ?",
+"In the 11th Century , the poet Somadev is said to have composed the 'Kathasaritsagara' to entertain which of these queens  ?",
+"who was the first member of the Gandhi Family to win a Lok Sabha election from Amethi  ?",
+"Starting with the earliest , arrange these playback singers in the order in which they sang their song for a Hindi film  ? (A)Usha Uthup (B) Alka Yagnik (C) Lata Mangeshkar (D) Shreya Ghoshal ",
+"Which of these is the title of a Hindi film starring Priyanka Chopra and Ranbir Kapoor  ?",
+" Who captained India to victory in the Nehru Cup football tournament in 2012  ?",
+" Where is the smallest district of India, by area located  ?",
+],
+
+"op":[["Gabbar Singh","Ramu Kaka","Rahem Kaka","Shokat Bhai"],
+[" Leander Paes "," Abhinav Bindra "," Vijender Singh "," Sushil Kumar "],
+[" B C Khanduri "," Ramesh Pokhriyal Nishank "," Nityanand Swami "," Bhagat Singh Koshiyari "],
+[" Noor Jahan "," Razia Sultan "," Arjumand Banu "," Anarkali "],
+[" Kerala "," Karnataka "," Manipur "," Mizoram "],
+[" Padmini "," Roopmati "," Mriganayani "," Suryamati "],
+[" Sanjay Gandhi "," Rajiv Gandhi "," Feroze Gandhi "," Rahul Gandhi "],
+["C-B-A-D","C-A-B-D","D-B-A-C","C-B-D-A"],
+[" Rasgulla "," Jalebi "," Boondil "," Barfi "],
+[" Subrata Pal "," Sunil Chhetri "," Nirmal Chettri "," Balchung Bhutia "],
+[" Puducherry "," Chandigarh "," Daman and Diu "," Lakshadweep "]],
+
+"ans":[2,3,0,1,0,3,0,1,3,1,0]
+
+}

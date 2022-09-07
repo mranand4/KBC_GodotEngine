@@ -1,0 +1,28 @@
+{
+
+"ques":["Which is the least populated state of India ?",
+"Who wrote the poem 'Hum Panchi Unmukt Gagan Ke' ?",
+"In which edition of the Olympics did women participate for the first time ?",
+"Which of these did Bimbisara, the king of Magadha, get as dowry on marrying the daughter of the king of Kosala ?",
+"Who amount these was the first lady Air Marshal of the Indian Air Force ?",
+"Who is the singer of 'Pi's Lullby, the Oscar-nominated song from the movie 'Life of Pi' ?",
+"With reference to genetics, which of these would best describe DNA and RNA ?",
+"After which of these personalities, one time Lieutenant Governor of Punjab, is a suburb in Dharamshala named ?",
+" Kaiser-i-Hind, found mostly in Nepal and the north-eastern part of India, is a rare species of which type of organism ?",
+" According to the Mahabharata, which of these characters got married through a swayamvara ?",
+],
+
+"op":[[" Manipur "," Arunachal Pradesh "," Sikkim "," Goa "],
+[" Shivmangal Singh 'Suman' "," Ayodhya Singh Upadhyay 'Hariaudh' "," Suryakanth Tripathi 'Nirala' "," Jayshankar Prasad "],
+[" Paris, 1900 "," London, 1908 "," Antwerp, 1920 "," Berlin, 1916 "],
+[" Pataliputra "," Kashi "," Anga "," Vaisali "],
+[" Lakshmi Sehgal "," Padmavathy Bandopadhyay "," Nirmala Kannan "," Puneeta Arora "],
+[" Mahalakshmi Iyer "," K. S. Chithra "," Bombay Jayashri "," Suchitra "],
+[" Base "," Acid "," Salt "," Metal "],
+[" Lord Dalhousie "," Sir Donald McLeod "," Sir Edward Bames "," Lord Lansdowne "],
+[" Fish "," Butterfly "," Bee "," Lizard "],
+[" Madri "," Gandhari "," Kunti "," Satyavati "]],
+
+"ans":[2,0,0,1,2,2,1,1,1,2]
+
+}

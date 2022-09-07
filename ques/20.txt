@@ -1,0 +1,30 @@
+{
+
+"ques":["According to the constitution, what is the minimum age to qualify to become the president of India ?",
+"On which day does the story of the film '# idiots' begin ?",
+"What ended in India as a result of the K. M. Nanavati vs Government of Maharashtra case  ?",
+"What are Toned , Double Toned and skimmed all varieties of  ?",
+"Which of these medical conditions is classified into Type-I and Type-2  ?",
+"Who partnered Mahesh Bhupathi in his mixed doubles title win at the 2012 French Open ?",
+"Who was appointec Chairman of the Press Council of India in 2011 ?",
+" Which revolutionary, also known as 'Masterda', led the Chittagong Armoury Raid in 1930 ?",
+" After whom is the southernmost tip of India named ?",
+" Which of these women entrepreneurs was nominated to the Rajya Sabha in 2012 ?",
+" Which one of the following is the first musician to be honoured with the Bharat Ratna ?",
+],
+
+"op":[[" 25 "," 35 "," 40 "," 30 "],
+[" Valentine's day "," teachers' day "," Republic Day "," Independence Day "],
+[" Mercy Killing "," Privy Purse "," Jury Trials "," Right to Property "],
+[" Coffee "," Tea "," Juice "," Milk "],
+[" Common cold "," Diabetes "," Hepatitis "," Night Blindness "],
+[" Sania Mirza "," Ankita Bhambroi "," Martina Navratilova "," Elena Vesnina "],
+[" Justice Santosh Hegde "," Justice P. B. Sawant "," Justice Markendey Katju "," Justice K. G. Balakrishnan "],
+[" Sachindra Nath Sanyal "," Surya Sen "," Ganesh Ghosh "," Jatindra Nath Das "],
+[" Rajiv Gandhi "," Mother Teresa "," Indira Gandhi "," B R Ambedkar "],
+[" Anu Aga "," Savitri Jindal "," Kiran Mazumdar-Shaw "," Shobhana Bhartia "],
+[" M. S. Subbulakshmi "," Pandit Ravi Shankar "," Bismillah Khan "," Bhimsen Joshi "]],
+
+"ans":[1,1,2,3,1,0,2,1,2,0,0]
+
+}

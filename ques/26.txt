@@ -1,0 +1,30 @@
+{
+
+"ques":["Usually in which of these do you have an interval or an intermission?",
+"Which of these is an alloy  ?",
+"Whom did Mamata Banerjee defeat in her first Lok Sabha election in 1984  ?",
+"For which film did Priyanka Chopra win the Filmfare Best Villian Award  ?",
+"Diaoyu Islands , also known as Senkaku Islands , is located in which sea  ?",
+"Who was the first to translate the Bhagwad Gita from the Sanskrit into English in 1785  ?",
+"What does an ' Aalingan' Mean  ?",
+"The use of what in cars has the Supreme Court of India banned in a judgement given in April 2013  ?",
+" A child may develop Kwashiorkor disease primarily due the deficiency of what  ?",
+"Starting from the least, arrange these sporting events in increasing order of the number of players in the playing area during a game : (A) Hockey (B) Boxing (C) Basketball (D) Tennis Doubles",
+"Which of these is a mixture of five spices particularly used in Bengali cuisine ?"
+],
+
+"op":[["110m obstructionr race","Cinema Show","200m race","TV news bulletin"],
+[" Sodium "," Aluminum "," Zinc "," Steel "],
+[" Indrajeet Gupta "," Somnath Chatterjee "," Biman Basu "," Buddhadeb Bhattacharya "],
+[" Kaminey "," 7 Khoon Maaf "," Don "," Aitraaz "],
+[" Philippine Sea "," South China Sea "," Sea of Japan "," East China Sea "],
+[" Francis Gladwin "," Max Weber "," Sir Charles Wilkins "," Sir William Jones "],
+[" Kissing "," Slapping "," Kicking "," Hugging "],
+[" Loud Music "," use of phone while driving "," Black film on Windows "," High-Speed Driving "],
+[" Sodium "," Protein "," Iodine "," Vitamin "],
+["B-D-C-A","B-D-A-C-","A-C-B-D","C-A-B-D"],
+["Panchamrit","Pancharanga","Panch Phoron","Panchangam"]],
+
+"ans":[1,3,1,3,3,3,3,2,1,0,2]
+
+}

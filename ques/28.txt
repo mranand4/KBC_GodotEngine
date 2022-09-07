@@ -1,0 +1,30 @@
+{
+
+"ques":["Which of these is a Hindi phrase for 'a stupid person' ?",
+"Which of these figures is also called a Mahatma ?",
+"Which is the heaviest internal organ in the human body ?",
+"Which of the following states does not border Andhra Pradesh ?",
+"Which of these badminton superseries tournaments did Saina Nehwal win in October 2012 ?",
+"With reference to automobiles, what is an 'airbag' ?",
+" In which country would you find the towns of Hambantoa and Kandy ?",
+" According to mythology, who heard about his death through an 'Akashwani' ?",
+"Which part of human body is reshaped by LASIK ?",
+" From which constituency was Salman Khurshid elected to the current Lok Sabha ?",
+" Mo Yan became the first citizen of which country to win the Nobel Prize in literature in 2012 ?",
+],
+
+"op":[[" Akal Ka Dushman "," Kaan Ka Kachcha "," Akal Dhadh "," Akela Dukela "],
+[" B. R. Ambedkar "," Jyotibha Phule "," Vinobha Bhave "," Dhondo Keshav Karve "],
+[" Pancreas "," Heart "," Liver "," Lungs "],
+[" Madhya Pradesh "," Odisha "," Maharashtra "," Tamil Nadu "],
+[" Malaysia Open "," Singapore Open "," Denmark Open "," Indonesia Open "],
+[" Oxygen Mask "," Type of Tyre "," Safety Equipment "," Type of Seat "],
+[" Bangladesh "," South Africa "," Jamaica "," Sri Lanka "],
+[" Duryodhana "," Hiranyakashipu "," Ravana "," Kansa "],
+[" Lungs "," Tonsil "," Cornea "," Ovaries "],
+[" Farrukhabad "," Azamgarh "," Bulandshahr "," Firozabad "],
+[" Vietnam "," China "," Myanmar "," Japan "]],
+
+"ans":[0,1,2,0,2,2,3,3,2,0,1]
+
+}

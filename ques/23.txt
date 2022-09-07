@@ -1,0 +1,30 @@
+{
+
+"ques":["In which of the following trees, roots are seen hanging in the air?",
+"Who has been India's longest serving woman chief minister  ?",
+"In the 2012 Wimbledon Championship who was the only player to win two titles  ?",
+"Who got his name because Lord Indra once struck him with his vajra on the jaw  ?",
+"Which MP was appointed as a Lieutenant in the Territorial Army in September 2012  ?",
+"Which is the hottest planet in the Solar system  ?",
+"In his book titled ' The Arctic Home in the Vedas', who argued that the Aryans originated in the north polar region  ?",
+"Out of the given countries which got independence on 15 August 1971  ?",
+" Which of these names means memory in Hindi  ?",
+" Which of these gods is also called lakshmipati and Balaji  ?",
+" Which of these pairs is the 'taiji-tauji' of film actress Sonam Kapoor  ?",
+],
+
+"op":[["Neem","Bargad","Aam","Team"],
+[" Mayawati "," Jayalalithaa "," Vasundhara Raje "," Sheila Dixit "],
+[" Roger Federer "," Venus Williams "," serena Williams "," Frederik Neilsen "],
+[" Ghatotkach "," Ravana "," Hanuman "," Duryodhana "],
+[" Rahul Gandhi "," Sachin Pilot "," Jyotiraditya Scindia "," Jitin Prasad "],
+[" Mercury "," Neptune "," Venus "," Mars "],
+[" Bal Gangadhar Tilak "," Dayanand Saraswati "," K B Hedgewar "," Veer Savarkar "],
+[" Bahrain "," Congo "," Bahamas "," Yemen "],
+[" Srishti "," Samriddhi "," Suhani "," Smirti "],
+[" Indra "," Vishnu "," Kartikeya "," Agnidev "],
+[" Babita & Ranbir Kapoor "," Supriya & Pankaj Kapur "," Sridevi & Boney Kapoor "," Jennifer & Shashi kapoor "]],
+
+"ans":[1,3,2,2,1,2,0,0,3,1,2]
+
+}

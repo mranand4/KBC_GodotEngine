@@ -1,0 +1,30 @@
+{
+
+"ques":["Which of these phrases is often used to describe a close childhood friends  ?",
+"What is the name of Lord Vishnu's Chakra  ?",
+"' In 3 Idiots', what does Rancho define as 'Instruments that records analyse, summarize, organize, debate and explain information … '  ?",
+"In which State would you find the district of Kokrajhar  ?",
+"At which venue did Sachin Tendulkar achieve an ODI score of 200 not out  ?",
+"What was the name of the rover sent by NASA that landed on Mars in August, 2012  ?",
+"At the instigation of Mughal prince Salim, whom did Bir Singh Bundela assassinate  ?",
+"Which is the only district in India that shares its boundary with four states  ?",
+" Who is the oldest person, at the age of 90, to have won the Nobel Prize  ?",
+" What does the Hindi Proverb 'Haath Malna' mean ?",
+" In 1996, RBI introduced bank notes in what series ?",
+],
+
+"op":[[" Roomali dost "," Langotia yaar "," Gamchha friends "," Dhoti mitra "],
+[" Chakrapani "," Chakravarti "," Surya Chakra "," Sudarshana Chakra "],
+[" Machine "," Computer "," Books "," Tape Recorder. "],
+[" Chhatisgarh "," Odisha "," Assam "," Madhya Pradesh "],
+[" Roop Singh, Stadium Gwalior "," Eden Gardens, Kolkatta "," Wankhede, Mumbai "," Chinnaswamy, Bengaluru "],
+[" Odyssey "," Discovery "," Challenger "," Curiosity "],
+[" Birbal "," Raja Daniyal "," Abul Fazi "," Raja Mansigh "],
+[" Saharanpur "," Sonbhadra "," Garhwa "," East Singhbhum "],
+[" Raymond Davis Jr "," Doris Lessing "," Leonld Hurwicz "," Yolchiro Nambu "],
+[" Repent "," Rolling Tobacco "," Shake Hands "," Wrestle "],
+[" Jawaharlal Nehru Series "," Mahatma Gandhi Series "," Bharat Mata Series "," Bharat Ratna Series "]],
+
+"ans":[1,3,2,2,0,3,2,1,2,0,1]
+
+}

@@ -1,0 +1,30 @@
+{
+
+"ques":["Where was the great Arab traveller Ibn Battutah born ?",
+"What is Balushahi a type of ?",
+"A coin of what value is called as 'Athhanni' ?",
+"Which poem opens with the lines 'Simhasan hil uthe, rajvanshon ne Bhrikuthi thani thi, Boodhhe Bharat mein bhi aayi, phir se nayi jawani thi' ?",
+"Which glacier is the primary source of the river Ganga ?",
+"Which song written by Gulzar won an Oscar award ?",
+" Who became the Prime Minister of Pakistan in June 2012 ?",
+" Who among these is considered as the author of the Natya Shastra ?",
+" Which of these capital cities is located on the banks of a river with the same name as the city ?",
+" Which Viceroy of India was the great-grandson of Britain's Queen Victoria ?",
+" Who was the first person to be awarded the Bharat Ratna posthumously ?",
+],
+
+"op":[[" Saudi Arabia "," Syria "," Egypt "," Morocco "],
+[" Sweet "," paper Art "," Dance Form "," Turban "],
+[" 1 Rupee "," 25 Paise "," 50 Paise "," 2 Rupees "],
+[" Veeron ka Kaisa ho Basant "," Jhansi Ki Rani "," Rakhi Ki Chunauti "," Vidaa "],
+[" Pindari "," Godwin-Austen "," Siachen "," Gangotri "],
+[" O Saaya "," Jao Ho "," Dhan Te nan "," Beedi "],
+[" Makhdoom Shahabuddin "," Maulana Fazlur Rehman "," Raja Perviz Ashraf "," Sardar Mehtab Abbasi "],
+[" Bhaas "," Bharata Muni "," Bharwi "," Bhartrihari "],
+[" Kathmandu "," Kabul "," Beijing "," Colombo "],
+[" Lord Wavell "," Lord Linlithgow "," Lord Willington "," Lord Mountbatten "],
+[" Rajiv Gandhi "," Vinoba Bhave "," Lal Bahadur Shastri "," Indira gandhi "]],
+
+"ans":[3,0,2,1,3,1,2,1,1,3,2]
+
+}

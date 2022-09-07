@@ -1,0 +1,30 @@
+{
+
+"ques":["With reference to the Indian Railways, which of these is a scheme related to ticket bookings ?",
+"Which of these is a Hindi idiom that means 'to move slowly' ?",
+"For which of the following can a consumer in India avail number portability ?",
+"The SI unit for which of these is named after James Watt, a Scottish inventor and engineer ?",
+"Who was the founder-chairman of the national Dairy Development board established in 1965 ?",
+"About whom did Matthew Hayden once say, 'I have seen God. He bats at number 4 in India in tests' ?",
+" According to the Ramayana, who among these could not be killed by any Devata, Danav, Gandharv or Yaksha due to a boon given to him by Brahma ?",
+" Who was India's food and agriculture minister in Jawaharlal Nehru's interim government of 1946 ?",
+" Where in India did the British East India Company establish their first permanent factory ?",
+" In the story 'The Thirsty crow', what does the crow throw into the pot to make the level of water rise ?",
+" In India, while filling up the forms for which of these would you have to declare your assets ?",
+],
+
+"op":[[" Apaatkaal "," Sambhaal "," Janjaal "," Tatkal "],
+[" Chuhe ki daud Iagana "," Chhuchhandar ki chaal chalna "," Kachhue ki chaal chalna "," Kabutar ki tarah phudakna "],
+[" Bank Account Number "," Gas Connection "," Mobile "," Insurance Policy "],
+[" Temperature "," Power "," Force "," Electric Current "],
+[" Tribhuvandas Patel "," H. M. Dalaya "," Amrita Patel "," Verghese Kurien "],
+[" V V S Laxman "," Sachin Tendulkar "," Rahul Dravid "," Virendar Sehwag "],
+[" Kumbhakarna "," Bali "," Ravana "," Khara "],
+[" Jagjivan Ram "," Asaf Ali "," Rajendra Prasad "," jawaharlal Nehru "],
+[" Calcutta "," Surat "," Calicut "," Madras "],
+[" Leaves "," Ball "," Wood "," Pebbles "],
+[" Election nomination "," Driving license "," Examination form "," Passport Application "]],
+
+"ans":[3,2,2,1,3,1,2,2,1,3,0]
+
+}

@@ -1,0 +1,30 @@
+{
+
+"ques":["Arrange these words in the correct order to form the starting line of a popular bhajan : (A) Mere (B) Girdhar (C) To (D) Gopal ?",
+"Which of these numbers is used before the word 'Shringar' to describe a fully beautiful women  ?",
+"Which part of 'Pudina' plant is normally used to make 'pudina chutney'  ?",
+"Whose different forms are 'Shailputri', 'Brahmcharani' and 'Chandraghanta'  ?",
+"Which of these names means 'lightning' ?",
+"Which of these words can refer to 'a fairly low temperature' or 'fashionably' or impressive' ?",
+"Which of these names means 'gold-like' ?",
+" Which of these brands of pens is named after highest peak in Western Europe ?",
+" What does the 'F' stands for in the Motorsports popularly known as F1 ?",
+" Which of these is the name of an island as well as a type of coffee ?",
+" Which of these personalities is known as the 'Flying Sikh' ?",
+],
+
+"op":[["A-C-B-D"," A-B-D-C "," B-D-A-C "," C-D-B-A "],
+[" Chhattees "," Solah "," Chhappan "," Gyarah "],
+[" Seed "," Flower "," Root "," Leaves "],
+[" Rati "," Ganga "," Durga "," Menaka "],
+[" Saumaya "," Damani "," Shreya "," Mahima "],
+[" Met "," Wow "," Chic "," Cool "],
+[" Sonakshi "," Sonam "," Sumita "," Sanjana "],
+[" Reynolds "," Montblanc "," Faber-Castell "," Sheaffer "],
+[" Fast "," Force "," Formula "," Fly "],
+[" Mocha "," Arabica "," Java "," Oolong "],
+[" Gurbachan Singh Randhawa "," Harbhajan Singh "," Navjot Singh Sidhu "," Mikha Singh "]],
+
+"ans":[0,1,3,2,1,3,1,1,2,2,3]
+
+}

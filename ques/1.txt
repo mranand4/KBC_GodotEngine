@@ -1,0 +1,28 @@
+{
+	"ques":["Arrange these words in correct order to make a Hindi Proverb? : (A)Ungli (B)Daanton (C)Tale (D)Dabanna",
+	"Which of these must a player hold during a Raid in a game of Kabaddi ?",
+	"Which type of professionals are the lead characters of the TV serial ‘ Kuch toh Log kahenge ‘?",
+	"'Time ho gaya hai, pack up' were reported to be the last words of which film star ?",
+	"Which poet wrote–'Rann beech chowkri bhar bharkar chetak ban gaya nirala tha, Rana Pratapne ghore se, pad gaya hawa ka pala tha'?",
+	"Which of these cities does the Yamuna Express Way connect with greater Noida ?",
+	"Starting with the earliest , arrange these landmarks events in the order in which they took place in Mughal History ?(A)Akbar’s birth (B)Babur attacks India (C)Construction of Taj Mahal (D)Aurangzeb’s death",
+	"Which of these beauty queens shares her name with the surname of a West Indian Cricket legends ?",
+	"Which of these is held annually in India ?",
+	"In Which of these events did Pinki Pramanik win a gold medal at the 2006 Doha Asian Games ?",
+	"Who is the first woman to become CEO of the soft drink giant PepsiCo ?"
+	],
+	
+	"op":[["B-C-D-A","B-C-A-D","A-C-B-D","D-B-C-A"],
+	["Ball","Breath","Tears","Anger"],
+	["Engineers","Lawyers","Architects","Doctors"],
+	["Rajesh Khanna","Shammi Kapoor","Dev Anand","Joy Mukherjee"],
+	["Dwaraka Prasad Mukherjee","Maithlee Sharan Gupt","Subhadra Kumari Chauhan","Shyam Narayan Pandey"],
+	["Jhansi","Agra","Kanpur","Haridwar"],
+	["C-B-A-D","B-A-C-D","D-C-A-B","C-D-A-B"],
+	["Diana","Priyanka","Sushmita","Lara"],
+	["Lok Sabha Elections","Presidential Elections","Budget Session of Parliament","Vidhan Sabha Elections"],
+	["4×400 m relay","800 m","Discus Throw","400 m"],
+	["Virginia Rometty","Indra Nooyi","Ursula Burns","Meg Whitman"]],
+	
+	"ans":[1,1,3,0,3,1,1,3,2,0,1]
+}

@@ -1,0 +1,28 @@
+{
+	"ques":["Kamadeva got the name ‘Ananga’ after he was burned to ashes by the fire of which god’s third eye ?",
+	"How many bones does an elephant’s trunk have ?",
+	"In which city is the Peer Dastageer Sahib Shrine that was damaged in a fire in June 2012 Situated ?",
+	"According to Kalhana’s ‘Rajatarangini’, who drained out the water from Kashmir Valley, that was a vast Lake, and made it habitable ?",
+	"In May 2012, which country’s prime minister became its president and the became the prime minister ?",
+	"In 2011, India’s first air-conditioned double-decker train started between which two cities ?",
+	"The awarding of gold medals for first place, silver medals for second and bronze medals for third began in which Olympics ?",
+	"In 1860, Which British official became the first auditor General of India ?",
+	"Which of these sweets are often cast in various moulds to resemble flowers, fruit and shells ?",
+	"What does a Kilo equal to, as in kilometre or kilogram ?",
+	"Which leader made her facebook debut in 2012 with the post 'I gave voice to what millions of Indians went to see in a President' ?"
+	],
+	
+	"op":[["Agni","Shiva","Vishnu","Indra"],
+	["5","1","10","0"],
+	["Srinagar","Ajmer","Aligarh","Hyderabad"],
+	["Agastya","Kashyapa","Valmiki","Parashurma"],
+	["Ukraine","France","Russia","Poland"],
+	["Howrah-Darbhnaga","Habibganj-Indore","Sealdah-Delhi","Howrah-Dhanbad"],
+	["1900, Paris","1904, St Louis","1908, London","1912, Stockholm"],
+	["Sir A. F. Cox","Sir Proby Cautley","Lord Sallsbury","Sir Edmund Drummond"],
+	["Rosogulla","Rasmalai","Sandesh","Ledikeni"],
+	["100","10000","1000","100000"],
+	["Mamata Banerjee","Sonia Gandhi","Mayawati","Jayalalithaa"]],
+	
+	"ans":[1,3,0,1,2,3,1,3,2,2,0]
+}

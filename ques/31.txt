@@ -1,0 +1,30 @@
+{
+
+"ques":["Which of these writers quit his government job in response to Mahatma Gandhi's call of non-cooperation  ?",
+"Who wrote the national Anthem of Bangaldesh 'Amar Shonar Bangla' ?",
+"Which country won the maximum number of gold medals at the London Olympics 2012 ?",
+"In which of these states were Vidhan Sabha elections held in March 2012 ?",
+"Which of these rivers flows through the Corbett National Park ?",
+"What is the introductory page of a website known as ?",
+"In Which of these games is the height of the net from its playing surface the shortest  ?",
+" Which song tells us that a 'papad is a rhythmic replica of a jhapad'  ?",
+" Which of these markings is given by the Bureau of Indian Standards to identify the purity of precious metals  ?",
+"The name of the capital city of which of these states does not end with 'pur'  ?",
+" Who, under the pseudonym 'Gul Makai' , used to write a blog for BBC Urdu, describing life under Taliban rule  ?",
+],
+
+"op":[[" Suryakant Tripathi 'Nirala' "," Munshi Premchand "," Jaishankar Prasad "," Ramdhari Singh 'Dinkar' "],
+[" Rabindranath Tagore "," Bankim Chandra Cahttopadhyay "," Kazi Nazrul Islam "," Syed Ali Ahsan "],
+[" Great Britain "," USA "," China "," Russia "],
+[" West Bengal "," Bihar "," Assam "," Punjab "],
+[" Ramganga "," Mandakini "," Alakananda "," Yamuna "],
+[" Office Page "," Home Page "," Mall page "," Gym Page "],
+[" Table Tennis "," Tennis "," Volleyball "," Badminton "],
+[" Son of Sardaar "," Bol Bachchan "," Barfi! "," Singh is Kinng "],
+[" ISI Mark "," Trademark "," Hallmark "," FPO Mark "],
+[" Chhattisgarh "," Rajasthan "," Assam "," Arunachal Pradesh "],
+[" Malalai Joya "," Malala Yousafzai "," Fouzia Saeed "," Farzana Bari "]],
+
+"ans":[1,0,1,3,0,1,0,1,2,3,1]
+
+}
